@@ -152,8 +152,9 @@ table {
 table > p {
 	margin: 0 !important;
 }
+.sc_table table td,
 table td {
-	padding: 1.5em 1em;
+	padding: .45em 1em;
 	text-align: center;
 	border: 1px solid #dbe1e6;
 }
@@ -467,6 +468,7 @@ button::-moz-focus-inner {
 }
 button:focus,
 input[type="text"]:focus,
+input[type="tel"]:focus,
 input[type="email"]:focus,
 input[type="password"]:focus,
 input[type="search"]:focus,
@@ -1502,7 +1504,7 @@ body:not(.expand_content):not(.body_style_fullwide):not(.body_style_fullscreen):
 }
 .menu_header_nav > li > ul,
 .menu_main_nav > li > ul {
-	top: 5em;
+	top: 4.8em;
 	left: 50%;
 	margin-left: -7.5em;
 	width: 20em;
@@ -2321,7 +2323,7 @@ aside .post_item .post_categories .post_info_counters {
 }
 .top_panel_title{
 	overflow:hidden;
-	padding: 4.38em 0;
+	padding: 2em 0;
 }
 .top_panel_title .page_title,
 .top_panel_title .breadcrumbs{

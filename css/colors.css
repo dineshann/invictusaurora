@@ -3308,10 +3308,10 @@ blockquote p,
     background-color: #0481ac;
     color: #ffffff;
     background: #035a95;
-    background: -moz-linear-gradient(left, #035a95 0%, #0498bd 100%);
-    background: -webkit-linear-gradient(left, #035a95 0%, #0498bd 100%);
-    background: linear-gradient(to right, #035a95 0%, #0498bd 100%);
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#035a95', endColorstr='#0498bd', GradientType=1);
+    background: -moz-linear-gradient(left, #035a95 0%, #006883 100%);
+    background: -webkit-linear-gradient(left, #035a95 0%, #006883 100%);
+    background: linear-gradient(to right, #035a95 0%, #006883 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#035a95', endColorstr='#006883', GradientType=1);
 }
 .scheme_dark .footer_wrap_inner h1,
 .scheme_dark .footer_wrap_inner h2,
