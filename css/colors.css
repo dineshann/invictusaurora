@@ -226,6 +226,7 @@ blockquote p,
     color: #0481ac
 }
 .scheme_default input[type="text"],
+.scheme_default input[type="file"],
 .scheme_default input[type="number"],
 .scheme_default input[type="email"],
 .scheme_default input[type="tel"],
@@ -243,6 +244,7 @@ blockquote p,
     border-color: #f1f6fb
 }
 .scheme_default input[type="text"]:focus,
+.scheme_default input[type="file"]:focus,
 .scheme_default input[type="number"]:focus,
 .scheme_default input[type="email"]:focus,
 .scheme_default input[type="tel"]:focus,
@@ -1896,6 +1898,7 @@ blockquote p,
     color: #202020
 }
 .scheme_default .sc_input_hover_accent input[type="text"]:focus,
+.scheme_default .sc_input_hover_accent input[type="file"]:focus,
 .scheme_default .sc_input_hover_accent input[type="number"]:focus,
 .scheme_default .sc_input_hover_accent input[type="email"]:focus,
 .scheme_default .sc_input_hover_accent input[type="password"]:focus,
