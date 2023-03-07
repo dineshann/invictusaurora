@@ -4674,7 +4674,7 @@ ul.instagram-pics li:before {
 
 /* Footer widgets */
 .footer_wrap_inner {
-	padding: 9.6em 0 3em;
+	padding: 6.6em 0 3em;
 }
 .footer_wrap aside {
 	margin-bottom:1.6667em;
@@ -4805,7 +4805,7 @@ ul.instagram-pics li:before {
 }
 .copyright_wrap_inner {
     font-size: 0;
-    padding: 3rem 0;
+    padding: 1rem 0 2rem;
     overflow: hidden;
     text-align: left;
 }

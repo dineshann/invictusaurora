@@ -3309,13 +3309,13 @@ blockquote p,
 .scheme_dark .socials_footer_wrap_inner,
 .scheme_dark .menu_footer_wrap_inner,
 .scheme_dark .copyright_wrap_inner {
-    background-color: #cb4154;
+    background-color: #262323;
     color: #ffffff;
-    background: #cb4154;
-    background: -moz-linear-gradient(left, #cb4154 0%, #aa3646 100%);
-    background: -webkit-linear-gradient(left, #cb4154 0%, #aa3646 100%);
-    background: linear-gradient(to right, #cb4154 0%, #aa3646 100%);
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#cb4154', endColorstr='#aa3646', GradientType=1);
+    background: #262323;
+    background: -moz-linear-gradient(to right, #262323 0%, #131010 100%);
+    background: -webkit-linear-gradient(to right, #262323 0%, #131010 100%);
+    background: linear-gradient(to right, #262323 0%, #131010 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#262323', endColorstr='#131010', GradientType=1);
 }
 .scheme_dark .footer_wrap_inner h1,
 .scheme_dark .footer_wrap_inner h2,
