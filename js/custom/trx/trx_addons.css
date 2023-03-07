@@ -1964,7 +1964,8 @@ ul.trx_addons_list {
     padding-left: 2em
 }
 ul.trx_addons_list>li {
-    position: relative
+    position: relative;
+    margin-bottom: 0.35rem;
 }
 ul.trx_addons_list>li:before {
     font-family: 'trx_addons_icons';

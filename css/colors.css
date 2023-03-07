@@ -176,7 +176,7 @@ blockquote p,
 .scheme_default h4 a:hover,
 .scheme_default h5 a:hover,
 .scheme_default h6 a:hover {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default dt,
 .scheme_default b,
@@ -189,10 +189,10 @@ blockquote p,
     color: #787e84
 }
 .scheme_default a {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default a:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default blockquote {
     color: #202020
@@ -201,12 +201,12 @@ blockquote p,
 .scheme_default blockquote cite,
 .scheme_default blockquote a,
 .scheme_default aside blockquote a {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .sc_blockquote_content:before,
 .scheme_default blockquote a:hover,
 .scheme_default aside blockquote a:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default table {
     color: #202020
@@ -220,10 +220,10 @@ blockquote p,
 .scheme_default .wp-caption-overlay .wp-caption .wp-caption-text,
 .scheme_default .wp-caption-overlay .wp-caption .wp-caption-dd {
     color: #9d9c9c;
-    background-color: #f1f6fb
+    background-color: #fbf1f2
 }
 .scheme_default ul>li:before {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default input[type="text"],
 .scheme_default input[type="file"],
@@ -236,12 +236,12 @@ blockquote p,
 .scheme_default .select_container,
 .scheme_default textarea {
     color: #707f8b;
-    border-color: #f1f6fb;
-    background-color: #f1f6fb
+    border-color: #fbf1f2;
+    background-color: #fbf1f2
 }
 .scheme_default .select_container select {
     color: #707f8b;
-    border-color: #f1f6fb
+    border-color: #fbf1f2
 }
 .scheme_default input[type="text"]:focus,
 .scheme_default input[type="file"]:focus,
@@ -253,12 +253,12 @@ blockquote p,
 .scheme_default .select_container:hover,
 .scheme_default textarea:focus {
     color: #707f8b;
-    border-color: #64c9ab;
-    background-color: #f1f6fb
+    border-color: #80ffd7;
+    background-color: #fbf1f2
 }
 .scheme_default .select_container select:focus {
     color: #707f8b;
-    border-color: #64c9ab
+    border-color: #80ffd7
 }
 .scheme_default .select_container:after {
     color: #707f8b;
@@ -277,13 +277,13 @@ blockquote p,
 }
 .scheme_default input[type="radio"]+label:before,
 .scheme_default input[type="checkbox"]+label:before {
-    border-color: #f1f6fb;
-    background-color: #f1f6fb
+    border-color: #fbf1f2;
+    background-color: #fbf1f2
 }
 .scheme_default input[type="submit"],
 .scheme_default input[type="button"] {
-    border-color: #0481ac;
-    background-color: #0481ac;
+    border-color: #cb4154;
+    background-color: #cb4154;
     color: #ffffff
 }
 .scheme_default input[type="submit"]:not([class*="sc_button_hover_"]):hover,
@@ -294,15 +294,15 @@ blockquote p,
 .scheme_default input[type="reset"]:not([class*="sc_button_hover_"]):focus,
 .scheme_default input[type="button"]:not([class*="sc_button_hover_"]):focus,
 .scheme_default button:not([class*="sc_button_hover_"]):focus {
-    border-color: #64c9ab;
-    background-color: #64c9ab;
+    border-color: #80ffd7;
+    background-color: #80ffd7;
     color: #ffffff
 }
 .scheme_default .sticky {
     border-color: #dbe1e6
 }
 .scheme_default .sticky .label_sticky {
-    border-top-color: #0481ac
+    border-top-color: #cb4154
 }
 .scheme_default body {
     color: #585f63;
@@ -313,7 +313,7 @@ blockquote p,
     background-color: #ffffff
 }
 .scheme_default .preloader_wrap>div {
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_default.top_panel:before {
     background-color: rgba(255, 255, 255, 0.85)
@@ -322,18 +322,18 @@ blockquote p,
     background: #ffffff
 }
 .scheme_default .top_panel .top_panel_navi {
-    background: #035a95;
-    background: -moz-linear-gradient(left, #035a95 0%, #0498bd 100%);
-    background: -webkit-linear-gradient(left, #035a95 0%, #0498bd 100%);
-    background: linear-gradient(to right, #035a95 0%, #0498bd 100%);
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#035a95', endColorstr='#0498bd', GradientType=1);
+    background: #cb4154;
+    background: -moz-linear-gradient(left, #cb4154 0%, #cb4154 100%);
+    background: -webkit-linear-gradient(left, #cb4154 0%, #cb4154 100%);
+    background: linear-gradient(to right, #cb4154 0%, #cb4154 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#cb4154', endColorstr='#cb4154', GradientType=1);
 }
 .scheme_default .top_panel.top_panel_style_2 .top_panel_navi {
-    background: #035a95;
-    background: -moz-linear-gradient(left, #035a95 0%, #0498bd 60%);
-    background: -webkit-linear-gradient(left, #035a95 0%, #0498bd 60%);
-    background: linear-gradient(to right, #035a95 0%, #0498bd 60%);
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#035a95', endColorstr='#0498bd', GradientType=1);
+    background: #cb4154;
+    background: -moz-linear-gradient(left, #cb4154 0%, #cb4154 60%);
+    background: -webkit-linear-gradient(left, #cb4154 0%, #cb4154 60%);
+    background: linear-gradient(to right, #cb4154 0%, #cb4154 60%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#cb4154', endColorstr='#cb4154', GradientType=1);
 }
 .scheme_default .top_panel .top_panel_navi:before {
     background: #ffffff
@@ -342,7 +342,7 @@ blockquote p,
     color: #202020
 }
 .scheme_default .logo i {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .logo_text {
     color: #202020
@@ -356,7 +356,7 @@ blockquote p,
 }
 .scheme_default .socials_wrap .social_item a:hover,
 .scheme_default .socials_wrap .social_item a:hover i {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .search_wrap .search_field {
     color: #585f63
@@ -448,7 +448,7 @@ blockquote p,
 .scheme_default .menu_main_nav>li.current-menu-item>a,
 .scheme_default .menu_main_nav>li.current-menu-parent>a,
 .scheme_default .menu_main_nav>li.current-menu-ancestor>a {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .menu_header_nav>li+li:before,
 .scheme_default .menu_main_nav>li+li:before {
@@ -456,29 +456,29 @@ blockquote p,
 }
 .scheme_default .menu_main_nav>li ul {
     background-color: #ffffff;
-    border-color: #0481ac
+    border-color: #cb4154
 }
 .scheme_default .menu_main_nav>li>ul:before {
-    border-bottom-color: #0481ac
+    border-bottom-color: #cb4154
 }
 .scheme_default .menu_main_nav>li>ul ul:before {
-    border-right-color: #0481ac
+    border-right-color: #cb4154
 }
 .scheme_default .menu_main_nav>li>ul ul.submenu_left:before {
     border-right-color: transparent;
-    border-left-color: #0481ac
+    border-left-color: #cb4154
 }
 .scheme_default .menu_main_nav>li li>a {
     color: #202020
 }
 .scheme_default .menu_main_nav>li li>a:hover,
 .scheme_default .menu_main_nav>li li.sfHover>a {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .menu_main_nav>li li.current-menu-item>a,
 .scheme_default .menu_main_nav>li li.current-menu-parent>a,
 .scheme_default .menu_main_nav>li li.current-menu-ancestor>a {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default>.phone_wrap,
 .scheme_default>.socials_wrap a,
@@ -490,7 +490,7 @@ blockquote p,
 .scheme_default>.search_wrap button.search_submit:hover,
 .scheme_default>.search_wrap button.search_submit:focus,
 .scheme_default>.socials_wrap a:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .side_text_wrap .text_left a,
 .scheme_default .side_text_wrap .text_right a {
@@ -513,7 +513,7 @@ blockquote p,
 .scheme_default .menu_mobile_close:hover:after,
 .scheme_default .menu_mobile_button:hover,
 .scheme_default .menu_mobile_button:hover:before {
-    border-color: #64c9ab
+    border-color: #80ffd7
 }
 .scheme_default .menu_mobile_inner a {
     color: #202020
@@ -521,7 +521,7 @@ blockquote p,
 .scheme_default .menu_mobile_inner a:hover,
 .scheme_default .menu_mobile_inner .current-menu-ancestor>a,
 .scheme_default .menu_mobile_inner .current-menu-item>a {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .menu_mobile_inner .search_mobile .search_submit {
     color: #707f8b
@@ -531,13 +531,13 @@ blockquote p,
     color: #707f8b
 }
 .scheme_default .top_panel_title_wrap {
-    background-color: #f1f6fb
+    background-color: #fbf1f2
 }
 .scheme_default .top_panel_title:after {
-    background-color: #035a95
+    background-color: #cb4154
 }
 .scheme_default .top_panel_title .post_meta {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .breadcrumbs_item.home {
     color: #202020
@@ -603,7 +603,7 @@ blockquote p,
 }
 .scheme_default .hr_advisor_tabs .hr_advisor_tabs_titles li a:hover {
     color: #ffffff;
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_default .hr_advisor_tabs .hr_advisor_tabs_titles li.ui-state-active a {
     color: #ffffff;
@@ -624,18 +624,18 @@ blockquote p,
 .scheme_default .post_counters .socials_share .socials_caption:before,
 .scheme_default .post_counters .socials_share .socials_caption:hover:before,
 .scheme_default .post_item .post_meta_item:hover:before {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .post_item .post_date a:hover,
 .scheme_default .post_item a.post_meta_item:hover,
 .scheme_default .post_item .post_meta_item a:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .post_item .post_meta_item.post_categories a {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .post_item .post_meta_item.post_categories a:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .post_meta_item .social_items,
 .scheme_default .post_meta_item .social_items:before {
@@ -647,7 +647,7 @@ blockquote p,
     border-color: #dbe1e6
 }
 .scheme_default .post_layout_excerpt blockquote:before {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .post_layout_classic {
     border-color: #dbe1e6
@@ -662,14 +662,14 @@ blockquote p,
     border-color: #202020
 }
 .scheme_default .post_audio {
-    background: #035a95;
-    background: -moz-linear-gradient(left, #035a95 0%, #0498bd 100%);
-    background: -webkit-linear-gradient(left, #035a95 0%, #0498bd 100%);
-    background: linear-gradient(to right, #035a95 0%, #0498bd 100%);
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#035a95', endColorstr='#0498bd', GradientType=1);
+    background: #cb4154;
+    background: -moz-linear-gradient(left, #cb4154 0%, #cb4154 100%);
+    background: -webkit-linear-gradient(left, #cb4154 0%, #cb4154 100%);
+    background: linear-gradient(to right, #cb4154 0%, #cb4154 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#cb4154', endColorstr='#cb4154', GradientType=1);
 }
 .scheme_default .post_audio .post_audio_author {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .post_audio .post_audio_title {
     color: #202020
@@ -687,11 +687,11 @@ blockquote p,
 .scheme_default .mejs-controls .mejs-time-rail .mejs-time-current,
 .scheme_default .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current {
     color: #ffffff;
-    background: #0481ac
+    background: #cb4154
 }
 .scheme_default .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current,
 .scheme_default .mejs-controls .mejs-time-rail .mejs-time-current {
-    background: #64c9ab
+    background: #80ffd7
 }
 .scheme_default .mejs-controls .mejs-button:hover {
     background: #202020
@@ -703,18 +703,18 @@ blockquote p,
 }
 .scheme_default .format-aside .post_content_inner {
     color: #ffffff;
-    background: #035a95;
-    background: -moz-linear-gradient(left, #035a95 0%, #0498bd 100%);
-    background: -webkit-linear-gradient(left, #035a95 0%, #0498bd 100%);
-    background: linear-gradient(to right, #035a95 0%, #0498bd 100%);
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#035a95', endColorstr='#0498bd', GradientType=1);
+    background: #cb4154;
+    background: -moz-linear-gradient(left, #cb4154 0%, #cb4154 100%);
+    background: -webkit-linear-gradient(left, #cb4154 0%, #cb4154 100%);
+    background: linear-gradient(to right, #cb4154 0%, #cb4154 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#cb4154', endColorstr='#cb4154', GradientType=1);
 }
 .scheme_default .format-link .post_content_inner {
     color: #ffffff;
     background-color: #202020
 }
 .scheme_default .format-link .post_content_inner a {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .format-status .post_content_inner {
     color: #202020
@@ -746,21 +746,21 @@ blockquote p,
     color: #202020
 }
 .scheme_default .nav-links .page-numbers {
-    background-color: #f1f6fb
+    background-color: #fbf1f2
 }
 .scheme_default .page_links>a:hover,
 .scheme_default .nav-links a.page-numbers:hover,
 .scheme_default .page_links>span:not(.page_links_title),
 .scheme_default .nav-links .page-numbers.current {
     color: #ffffff;
-    background-color: #64c9ab
+    background-color: #80ffd7
 }
 .scheme_default .post_item_single .post_header .post_date {
     color: #787e84
 }
 .scheme_default .post_item_single .post_header .post_categories,
 .scheme_default .post_item_single .post_header .post_categories a {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .post_item_single .post_meta_item,
 .scheme_default .post_item_single .post_meta_item:before,
@@ -777,7 +777,7 @@ blockquote p,
 .scheme_default .post_item_single .post_meta_item>a:hover,
 .scheme_default .post_item_single .post_meta_item .socials_caption:hover,
 .scheme_default .post_item_single .post_edit a:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .post_item_single .post_content .post_meta_label,
 .scheme_default .post_item_single .post_content .post_meta_item:hover .post_meta_label {
@@ -788,26 +788,26 @@ blockquote p,
     color: #202020
 }
 .scheme_default .post_item_single .post_content .post_tags a:hover {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .post_item_single .post_content .post_meta .post_share .social_item a {
     color: #ffffff!important;
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_default .post_item_single .post_content .post_meta .post_share .social_item a.sc_button_hover_slide_left {
-    background: linear-gradient(to right, #202020 50%, #0481ac 50%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to right, #202020 50%, #cb4154 50%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_default .post_item_single .post_content .post_meta .post_share .social_item a.sc_button_hover_slide_right {
-    background: linear-gradient(to left, #202020 50%, #0481ac 50%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to left, #202020 50%, #cb4154 50%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_default .post_item_single .post_content .post_meta .post_share .social_item a.sc_button_hover_slide_top {
-    background: linear-gradient(to bottom, #202020 50%, #0481ac 50%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to bottom, #202020 50%, #cb4154 50%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_default .post_item_single .post_content .post_meta .post_share .social_item a.sc_button_hover_slide_bottom {
-    background: linear-gradient(to top, #202020 50%, #0481ac 50%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to top, #202020 50%, #cb4154 50%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_default .post_item_single .post_content .post_meta .post_share .social_item a:not([class*="sc_button_hover_"]):hover {
-    background-color: #64c9ab
+    background-color: #80ffd7
 }
 .scheme_default .nav-links-single .nav-links {
     border-color: #dbe1e6
@@ -823,7 +823,7 @@ blockquote p,
     color: #202020
 }
 .scheme_default .nav-links-single .nav-links a:hover .post-title {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .author_info {
     border-color: #dbe1e6
@@ -832,7 +832,7 @@ blockquote p,
     color: #202020
 }
 .scheme_default .author_info a:hover {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .related_wrap {
     border-color: #dbe1e6
@@ -862,14 +862,14 @@ blockquote p,
 }
 .scheme_default .comments_list_wrap .comment_info,
 .scheme_default .comments_list_wrap .comment_counters a {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .comments_list_wrap .comment_counters a:before {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .comments_list_wrap .comment_counters a:hover:before,
 .scheme_default .comments_list_wrap .comment_counters a:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .comments_list_wrap .comment_text {
     color: #585f63
@@ -884,7 +884,7 @@ blockquote p,
     color: #787e84
 }
 .scheme_default .post_item_404 .page_description {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .sidebar_inner {
     background-color: #ffffff;
@@ -916,10 +916,10 @@ blockquote p,
     color: #202020
 }
 .scheme_default aside a:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default aside li:before {
-    background-color: #64c9ab
+    background-color: #80ffd7
 }
 .scheme_default .widget_area_inner .post_item .post_info .post_info_item,
 .scheme_default aside .post_item .post_info .post_info_item,
@@ -937,7 +937,7 @@ blockquote p,
 }
 .scheme_default .widget_area_inner .post_item .post_title a:hover,
 .scheme_default aside .post_item .post_title a:hover {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .widget_archive li {
     color: #202020
@@ -951,22 +951,22 @@ blockquote p,
     color: #787e84
 }
 .scheme_default .widget_calendar tbody td a:after {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .widget_calendar tbody td a:hover,
 .scheme_default .widget_calendar tbody td a:hover:after {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .widget_calendar td#today:before {
-    border-color: #64c9ab
+    border-color: #80ffd7
 }
 .scheme_default .widget_calendar #prev a,
 .scheme_default .widget_calendar #next a {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .widget_calendar #prev a:hover,
 .scheme_default .widget_calendar #next a:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .widget_categories li {
     color: #202020
@@ -974,25 +974,25 @@ blockquote p,
 .scheme_default .widget_product_tag_cloud a,
 .scheme_default .widget_tag_cloud a {
     color: #202020;
-    border-color: #f1f6fb
+    border-color: #fbf1f2
 }
 .scheme_default .widget_product_tag_cloud a:not([class*="sc_button_hover_"]),
 .scheme_default .widget_tag_cloud a:not([class*="sc_button_hover_"]),
 .scheme_default .widget_product_tag_cloud a.sc_button_hover_slide_left,
 .scheme_default .widget_tag_cloud a.sc_button_hover_slide_left {
-    background: linear-gradient(to right, #64c9ab 50%, rgba(0, 0, 0, 0) 50%) no-repeat scroll right bottom/ 210% 100% #f1f6fb
+    background: linear-gradient(to right, #80ffd7 50%, rgba(0, 0, 0, 0) 50%) no-repeat scroll right bottom/ 210% 100% #fbf1f2
 }
 .scheme_default .widget_product_tag_cloud a.sc_button_hover_slide_right,
 .scheme_default .widget_tag_cloud a.sc_button_hover_slide_right {
-    background: linear-gradient(to left, #64c9ab 50%, rgba(0, 0, 0, 0) 50%) no-repeat scroll left bottom/ 210% 100% #f1f6fb
+    background: linear-gradient(to left, #80ffd7 50%, rgba(0, 0, 0, 0) 50%) no-repeat scroll left bottom/ 210% 100% #fbf1f2
 }
 .scheme_default .widget_product_tag_cloud a.sc_button_hover_slide_top,
 .scheme_default .widget_tag_cloud a.sc_button_hover_slide_top {
-    background: linear-gradient(to bottom, #64c9ab 50%, rgba(0, 0, 0, 0) 50%) no-repeat scroll right bottom/ 100% 210% #f1f6fb
+    background: linear-gradient(to bottom, #80ffd7 50%, rgba(0, 0, 0, 0) 50%) no-repeat scroll right bottom/ 100% 210% #fbf1f2
 }
 .scheme_default .widget_product_tag_cloud a.sc_button_hover_slide_bottom,
 .scheme_default .widget_tag_cloud a.sc_button_hover_slide_bottom {
-    background: linear-gradient(to top, #64c9ab 50%, rgba(0, 0, 0, 0) 50%) no-repeat scroll right top/ 100% 210% #f1f6fb
+    background: linear-gradient(to top, #80ffd7 50%, rgba(0, 0, 0, 0) 50%) no-repeat scroll right top/ 100% 210% #fbf1f2
 }
 .scheme_default .widget_product_tag_cloud a:hover,
 .scheme_default .widget_tag_cloud a:hover {
@@ -1005,10 +1005,10 @@ blockquote p,
     background-color: #202020
 }
 .scheme_default .widget_rss .widget_title a:first-child {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .widget_rss .widget_title a:first-child:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .widget_rss .rss-date {
     color: #787e84
@@ -1025,7 +1025,7 @@ blockquote p,
     color: #202020
 }
 .scheme_default .widget_text .socials_wrap a:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .bg_gradient,
 .scheme_default .footer_wrap_inner,
@@ -1035,11 +1035,11 @@ blockquote p,
 .scheme_default .copyright_wrap_inner {
     background-color: #ffffff;
     color: #585f63;
-    background: #035a95;
-    background: -moz-linear-gradient(left, #035a95 0%, #0498bd 100%);
-    background: -webkit-linear-gradient(left, #035a95 0%, #0498bd 100%);
-    background: linear-gradient(to right, #035a95 0%, #0498bd 100%);
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#035a95', endColorstr='#0498bd', GradientType=1);
+    background: #cb4154;
+    background: -moz-linear-gradient(left, #cb4154 0%, #cb4154 100%);
+    background: -webkit-linear-gradient(left, #cb4154 0%, #cb4154 100%);
+    background: linear-gradient(to right, #cb4154 0%, #cb4154 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#cb4154', endColorstr='#cb4154', GradientType=1);
 }
 .scheme_default .footer_wrap_inner h1,
 .scheme_default .footer_wrap_inner h2,
@@ -1098,7 +1098,7 @@ blockquote p,
     color: #202020
 }
 .scheme_default .menu_footer_nav_area ul li a:hover {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .menu_footer_nav_area ul li+li:before {
     border-color: #787e84
@@ -1110,27 +1110,27 @@ blockquote p,
     color: #202020
 }
 .scheme_default .copyright_wrap_inner a:hover {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .copyright_wrap_inner .copyright_text {
     color: #202020
 }
 .scheme_default .sc_price_link {
     color: #ffffff;
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_default .sc_price_link:not([class*="sc_button_hover_"]),
 .scheme_default .sc_price_link.sc_button_hover_slide_left {
-    background: linear-gradient(to right, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to right, #ca4053 0%, #aa3646 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_default .sc_price_link.sc_button_hover_slide_right {
-    background: linear-gradient(to left, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to left, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_default .sc_price_link.sc_button_hover_slide_top {
-    background: linear-gradient(to bottom, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to bottom, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_default .sc_price_link.sc_button_hover_slide_bottom {
-    background: linear-gradient(to top, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to top, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_default .sc_price_link:hover {
     color: #ffffff;
@@ -1138,21 +1138,21 @@ blockquote p,
 }
 .scheme_default .sc_price_link:not([class*="sc_button_hover_"]):hover {
     color: #ffffff;
-    background-color: #64c9ab
+    background-color: #80ffd7
 }
 .scheme_default .theme_button,
 .scheme_default .more-link,
 .scheme_default .socials_share:not(.socials_type_drop) .social_icons,
 .scheme_default .comments_wrap .form-submit input[type="submit"] {
     color: #ffffff!important;
-    border-color: #0481ac!important;
-    background-color: #0481ac!important
+    border-color: #cb4154!important;
+    background-color: #cb4154!important
 }
 .scheme_default .theme_button:not([class*="sc_button_hover_"]),
 .scheme_default .more-link:not([class*="sc_button_hover_"]),
 .scheme_default .socials_share:not(.socials_type_drop) .social_icons:not([class*="sc_button_hover_"]),
 .scheme_default .comments_wrap .form-submit input[type="submit"]:not([class*="sc_button_hover_"]) {
-    background: linear-gradient(to right, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to right, #ca4053 0%, #aa3646 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_default .theme_button:hover,
 .scheme_default .more-link:hover,
@@ -1160,7 +1160,7 @@ blockquote p,
 .scheme_default .comments_wrap .form-submit input[type="submit"]:hover,
 .scheme_default .comments_wrap .form-submit input[type="submit"]:focus {
     color: #ffffff!important;
-    border-color: #64c9ab!important;
+    border-color: #80ffd7!important;
     background-position: left bottom
 }
 .scheme_default .theme_button:not([class*="sc_button_hover_"]):hover,
@@ -1168,40 +1168,40 @@ blockquote p,
 .scheme_default .socials_share:not(.socials_type_drop) .social_icons:not([class*="sc_button_hover_"]):hover,
 .scheme_default .comments_wrap .form-submit input[type="submit"]:not([class*="sc_button_hover_"]):hover,
 .scheme_default .comments_wrap .form-submit input[type="submit"]:not([class*="sc_button_hover_"]):focus {
-    background-color: #64c9ab!important
+    background-color: #80ffd7!important
 }
 .scheme_default .format-video .post_featured.with_thumb .post_video_hover {
     color: #ffffff;
-    border-color: #0481ac
+    border-color: #cb4154
 }
 .scheme_default .format-video .post_featured.with_thumb .post_video_hover:not([class*="sc_button_hover_"]) {
-    background: linear-gradient(to right, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to right, #ca4053 0%, #aa3646 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_default .format-video .post_featured.with_thumb .post_video_hover.sc_button_hover_slide_left {
-    background: linear-gradient(to right, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to right, #ca4053 0%, #aa3646 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_default .format-video .post_featured.with_thumb .post_video_hover.sc_button_hover_slide_right {
-    background: linear-gradient(to left, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to left, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_default .format-video .post_featured.with_thumb .post_video_hover.sc_button_hover_slide_top {
-    background: linear-gradient(to bottom, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to bottom, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_default .format-video .post_featured.with_thumb .post_video_hover.sc_button_hover_slide_bottom {
-    background: linear-gradient(to top, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to top, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_default .format-video .post_featured.with_thumb .post_video_hover:hover {
     color: #ffffff;
-    border-color: #0481ac;
+    border-color: #cb4154;
     background-position: left bottom
 }
 .scheme_default .format-video .post_featured.with_thumb .post_video_hover:not([class*="sc_button_hover_"]):hover {
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_default .theme_scroll_down {
     color: #202020
 }
 .scheme_default .theme_scroll_down:hover {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .mfp-bg {
     background-color: rgba(255, 255, 255, 0.85)
@@ -1212,86 +1212,86 @@ blockquote p,
 }
 .scheme_default .mfp-image-holder .mfp-close:hover,
 .scheme_default .mfp-iframe-holder .mfp-close:hover {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .vc_row.vc_row-has-fill.bg_gradient:not(.fullwidth_1) {
-    background: #035a95;
-    background: -moz-linear-gradient(left, #035a95 0%, #0498bd 60%);
-    background: -webkit-linear-gradient(left, #035a95 0%, #0498bd 60%);
-    background: linear-gradient(to right, #035a95 0%, #0498bd 60%);
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#035a95', endColorstr='#0498bd', GradientType=1);
+    background: #cb4154;
+    background: -moz-linear-gradient(left, #cb4154 0%, #cb4154 60%);
+    background: -webkit-linear-gradient(left, #cb4154 0%, #cb4154 60%);
+    background: linear-gradient(to right, #cb4154 0%, #cb4154 60%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#cb4154', endColorstr='#cb4154', GradientType=1);
 }
 .scheme_default .menu_hover_fade_box .menu_main_nav>a:hover,
 .scheme_default .menu_hover_fade_box .menu_main_nav>li>a:hover,
 .scheme_default .menu_hover_fade_box .menu_main_nav>li.sfHover>a {
-    color: #64c9ab;
-    background-color: #f1f6fb
+    color: #80ffd7;
+    background-color: #fbf1f2
 }
 .scheme_default .menu_hover_slide_line .menu_main_nav>li#blob {
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_default .menu_hover_slide_box .menu_main_nav>li#blob {
-    background-color: #f1f6fb
+    background-color: #fbf1f2
 }
 .scheme_default .menu_hover_zoom_line .menu_main_nav>li>a:before {
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_default .menu_hover_path_line .menu_main_nav>li:before,
 .scheme_default .menu_hover_path_line .menu_main_nav>li:after,
 .scheme_default .menu_hover_path_line .menu_main_nav>li>a:before,
 .scheme_default .menu_hover_path_line .menu_main_nav>li>a:after {
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_default .menu_hover_roll_down .menu_main_nav>li>a:before {
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_default .menu_hover_color_line .menu_main_nav>li>a:before {
     background-color: #202020
 }
 .scheme_default .menu_hover_color_line .menu_main_nav>li>a:after,
 .scheme_default .menu_hover_color_line .menu_main_nav>li.menu-item-has-children>a:after {
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_default .menu_hover_color_line .menu_main_nav>li.sfHover>a,
 .scheme_default .menu_hover_color_line .menu_main_nav>li>a:hover,
 .scheme_default .menu_hover_color_line .menu_main_nav>li>a:focus {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .sc_button_hover_slide_left {
-    background: linear-gradient(to right, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to right, #ca4053 0%, #aa3646 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_default .sc_button_hover_slide_right {
-    background: linear-gradient(to left, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to left, #ca4053 0%, #aa3646 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_default .sc_button_hover_slide_top {
-    background: linear-gradient(to bottom, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to bottom, #ca4053 0%, #aa3646 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_default .sc_button_hover_slide_bottom {
-    background: linear-gradient(to top, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to top, #ca4053 0%, #aa3646 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_default form button.sc_button_hover_slide_left {
-    background: linear-gradient(to right, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to right, #ca4053 0%, #aa3646 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_default form button.sc_button_hover_slide_right {
-    background: linear-gradient(to left, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to left, #ca4053 0%, #aa3646 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_default form button.sc_button_hover_slide_top {
-    background: linear-gradient(to bottom, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to bottom, #ca4053 0%, #aa3646 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_default form button.sc_button_hover_slide_bottom {
-    background: linear-gradient(to top, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to top, #ca4053 0%, #aa3646 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_default .post_featured .mask {
     background-color: rgba(32, 32, 32, 0.5)
 }
 .scheme_default .post_featured.hover_dots .icons span {
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_default .post_featured.hover_dots .post_info {
     color: #ffffff
 }
 .scheme_default .post_featured.hover_icon .icons a {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .post_featured.hover_icon a:hover {
     color: #ffffff
@@ -1302,7 +1302,7 @@ blockquote p,
 }
 .scheme_default .post_featured.hover_icons a:hover {
     background-color: #ffffff;
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .post_featured.hover_fade .post_info,
 .scheme_default .post_featured.hover_fade .post_info a,
@@ -1312,7 +1312,7 @@ blockquote p,
     color: #ffffff
 }
 .scheme_default .post_featured.hover_fade .post_info a:hover {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .post_featured.hover_slide .post_info,
 .scheme_default .post_featured.hover_slide .post_info a,
@@ -1322,7 +1322,7 @@ blockquote p,
     color: #ffffff
 }
 .scheme_default .post_featured.hover_slide .post_info a:hover {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .post_featured.hover_slide .post_info .post_title:after {
     background-color: #ffffff
@@ -1332,7 +1332,7 @@ blockquote p,
     color: #ffffff
 }
 .scheme_default .post_featured.hover_pull .post_info a:hover {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .post_featured.hover_pull .post_info .post_descr {
     background-color: #202020
@@ -1345,7 +1345,7 @@ blockquote p,
     color: #ffffff
 }
 .scheme_default .post_featured.hover_border .post_info a:hover {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .post_featured.hover_border .post_info:before,
 .scheme_default .post_featured.hover_border .post_info:after {
@@ -1353,25 +1353,25 @@ blockquote p,
 }
 .scheme_default .post_featured.hover_shop .icons a {
     color: #202020;
-    border-color: #0481ac
+    border-color: #cb4154
 }
 .scheme_default .post_featured.hover_shop .icons a:hover {
     color: #ffffff;
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_default .trx_addons_cv_resume_style_services .trx_addons_cv_resume_item_icon:hover,
 .scheme_default .trx_addons_cv_resume_style_services .trx_addons_cv_resume_item_text a:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .trx_addons_cv_resume_style_services .trx_addons_cv_resume_item_title>a:hover:after {
-    border-color: #64c9ab
+    border-color: #80ffd7
 }
 .scheme_default .trx_addons_accent,
 .scheme_default .trx_addons_accent>* {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .trx_addons_accent_bg {
-    background-color: #0481ac;
+    background-color: #cb4154;
     color: #ffffff
 }
 .scheme_default .trx_addons_inverse {
@@ -1382,7 +1382,7 @@ blockquote p,
     color: #202020
 }
 .scheme_default .trx_addons_hovered {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .trx_addons_inverse {
     color: #ffffff;
@@ -1390,11 +1390,11 @@ blockquote p,
 }
 .scheme_default .trx_addons_dropcap_style_1 {
     color: #ffffff;
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_default .trx_addons_dropcap_style_2 {
     color: #ffffff;
-    background-color: #64c9ab
+    background-color: #80ffd7
 }
 .scheme_default .trx_addons_tooltip {
     color: #202020;
@@ -1408,19 +1408,19 @@ blockquote p,
     border-top-color: #202020
 }
 .scheme_default ul.trx_addons_list_dot_red>li:before {
-    background-color: #64c9ab
+    background-color: #80ffd7
 }
 .scheme_default ul.trx_addons_list_dot_dark>li:before {
     background-color: #202020
 }
 .scheme_default ul.trx_addons_list_arrow>li:before {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default ul.trx_addons_list.icons li {
     color: #202020
 }
 .scheme_default ul.trx_addons_list.icons li:before {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default blockquote.trx_addons_blockquote_style_1:before,
 .scheme_default blockquote.trx_addons_blockquote_style_1 {
@@ -1428,10 +1428,10 @@ blockquote p,
 }
 .scheme_default blockquote.trx_addons_blockquote_style_1 a,
 .scheme_default blockquote.trx_addons_blockquote_style_1 cite {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default blockquote.trx_addons_blockquote_style_1 a:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default blockquote.trx_addons_blockquote_style_2 {
     background-color: #202020;
@@ -1440,17 +1440,17 @@ blockquote p,
 .scheme_default blockquote.trx_addons_blockquote_style_2:before,
 .scheme_default blockquote.trx_addons_blockquote_style_2 a,
 .scheme_default blockquote.trx_addons_blockquote_style_2 cite {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default blockquote.trx_addons_blockquote_style_2 a:hover {
     color: #ffffff
 }
 .scheme_default .trx_addons_hover_mask {
-    background: #035a95;
-    background: -moz-linear-gradient(left, #0498bd 0%, #035a95 100%);
-    background: -webkit-linear-gradient(left, #0498bd 0%, #035a95 100%);
-    background: linear-gradient(to right, #0498bd 0%, #035a95 100%);
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#0498bd', endColorstr='#035a95', GradientType=1);
+    background: #cb4154;
+    background: -moz-linear-gradient(left, #cb4154 0%, #cb4154 100%);
+    background: -webkit-linear-gradient(left, #cb4154 0%, #cb4154 100%);
+    background: linear-gradient(to right, #cb4154 0%, #cb4154 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#cb4154', endColorstr='#cb4154', GradientType=1);
 }
 .scheme_default .trx_addons_hover_title,
 .scheme_default .trx_addons_hover_subtitle {
@@ -1462,12 +1462,12 @@ blockquote p,
 .scheme_default .trx_addons_hover_icon,
 .scheme_default .trx_addons_hover_links a {
     color: #ffffff;
-    background-color: #64c9ab
+    background-color: #80ffd7
 }
 .scheme_default .trx_addons_hover_icon:hover,
 .scheme_default .trx_addons_hover_links a:hover {
-    color: #64c9ab!important;
-    background-color: #f1f6fb
+    color: #80ffd7!important;
+    background-color: #fbf1f2
 }
 .scheme_default .sc_team_item .trx_addons_hover_icon,
 .scheme_default .sc_team_item .trx_addons_hover_links a {
@@ -1476,7 +1476,7 @@ blockquote p,
 }
 .scheme_default .sc_team_item .trx_addons_hover_icon:hover,
 .scheme_default .sc_team_item .trx_addons_hover_links a:hover {
-    color: #64c9ab!important;
+    color: #80ffd7!important;
     background-color: transparent
 }
 .scheme_default .slider_swiper .slide_info.slide_info_large {
@@ -1486,7 +1486,7 @@ blockquote p,
     background-color: #ffffff
 }
 .scheme_default .slider_swiper .slide_info.slide_info_large .slide_cats a {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .slider_swiper .slide_info.slide_info_large .slide_title a {
     color: #202020
@@ -1499,15 +1499,15 @@ blockquote p,
 }
 .scheme_default .slider_swiper .slide_info.slide_info_large .slide_cats a:hover,
 .scheme_default .slider_swiper .slide_info.slide_info_large .slide_title a:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .slider_swiper.slider_multi .slide_cats a:hover,
 .scheme_default .slider_swiper.slider_multi .slide_title a:hover,
 .scheme_default .slider_swiper.slider_multi a:hover .slide_title {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .slider_swiper.slider_pagination .swiper-pagination-bullet-active {
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_default .slider_swiper.slider_controls_bottom .slider_prev,
 .scheme_default .slider_swiper.slider_controls_bottom .slider_next {
@@ -1524,8 +1524,8 @@ blockquote p,
 }
 .scheme_default .slider_swiper .swiper-pagination-bullet.swiper-pagination-bullet-active,
 .scheme_default .slider_swiper .swiper-pagination-bullet:hover {
-    border-color: #0481ac;
-    background-color: #0481ac
+    border-color: #cb4154;
+    background-color: #cb4154
 }
 .scheme_default aside.widget_bg_image a,
 .scheme_default aside.widget_bg_image ul li a {
@@ -1537,14 +1537,14 @@ blockquote p,
 }
 .scheme_default .trx_addons_audio_player.without_cover {
     border-color: #dbe1e6;
-    background: #035a95;
-    background: -moz-linear-gradient(left, #035a95 0%, #0498bd 100%);
-    background: -webkit-linear-gradient(left, #035a95 0%, #0498bd 100%);
-    background: linear-gradient(to right, #035a95 0%, #0498bd 100%);
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#035a95', endColorstr='#0498bd', GradientType=1);
+    background: #cb4154;
+    background: -moz-linear-gradient(left, #cb4154 0%, #cb4154 100%);
+    background: -webkit-linear-gradient(left, #cb4154 0%, #cb4154 100%);
+    background: linear-gradient(to right, #cb4154 0%, #cb4154 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#cb4154', endColorstr='#cb4154', GradientType=1);
 }
 .scheme_default .trx_addons_audio_player .audio_author {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .widget_categories_list .categories_list_style_2 .categories_list_title a:hover {
     color: #202020
@@ -1556,10 +1556,10 @@ blockquote p,
     color: #202020
 }
 .scheme_default .widget_contacts .contacts_socials a:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .widget_socials .social_item span {
-    background-color: #64c9ab;
+    background-color: #80ffd7;
     color: #ffffff
 }
 .scheme_default .widget_socials .social_item a:hover span {
@@ -1569,7 +1569,7 @@ blockquote p,
     color: #202020
 }
 .scheme_default .slider_engine_revo .widget_socials .social_item a:hover span {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default aside .trx_addons_tabs .trx_addons_tabs_titles li a {
     color: #202020;
@@ -1577,30 +1577,30 @@ blockquote p,
 }
 .scheme_default aside .trx_addons_tabs .trx_addons_tabs_titles li a:hover,
 .scheme_default aside .trx_addons_tabs .trx_addons_tabs_titles li.ui-tabs-active a {
-    color: #0481ac;
-    border-color: #0481ac
+    color: #cb4154;
+    border-color: #cb4154
 }
 .scheme_default .sc_recent_news_header {
     border-color: #202020
 }
 .scheme_default .sc_recent_news_header_category_item_more {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .sc_recent_news_header_more_categories {
-    border-color: #035a95;
-    background-color: #f1f6fb
+    border-color: #cb4154;
+    background-color: #fbf1f2
 }
 .scheme_default .sc_recent_news_header_more_categories>a {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .sc_recent_news_header_more_categories>a:hover {
     color: #2a2a2a;
-    background-color: #f1f6fb
+    background-color: #fbf1f2
 }
 .scheme_default .sc_recent_news .post_counters_item,
 .scheme_default .sc_recent_news .post_counters .post_counters_edit a {
     color: #ffffff;
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_default .sc_recent_news .post_counters_item:hover,
 .scheme_default .sc_recent_news .post_counters .post_counters_edit a:hover {
@@ -1610,7 +1610,7 @@ blockquote p,
 .scheme_default .sidebar .sc_recent_news .post_counters_item:hover,
 .scheme_default .sidebar .sc_recent_news .post_counters .post_counters_edit a:hover {
     color: #2a2a2a;
-    background-color: #f1f6fb
+    background-color: #fbf1f2
 }
 .scheme_default .sc_recent_news_style_news-magazine .post_accented_border {
     border-color: #dbe1e6
@@ -1622,13 +1622,13 @@ blockquote p,
     color: #585f63
 }
 .scheme_default .trx_addons_video_player.with_cover .video_mask {
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_default .slider_swiper.slider_controls_side .slider_prev,
 .scheme_default .slider_swiper.slider_controls_side .slider_next,
 .scheme_default .trx_addons_video_player.with_cover .video_hover {
     color: #ffffff;
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_default .slider_swiper.slider_controls_side .slider_prev:not([class*="sc_button_hover_"]),
 .scheme_default .slider_swiper.slider_controls_side .slider_next:not([class*="sc_button_hover_"]),
@@ -1636,22 +1636,22 @@ blockquote p,
 .scheme_default .slider_swiper.slider_controls_side .slider_prev.sc_button_hover_slide_left,
 .scheme_default .slider_swiper.slider_controls_side .slider_next.sc_button_hover_slide_left,
 .scheme_default .trx_addons_video_player.with_cover .video_hover.sc_button_hover_slide_left {
-    background: linear-gradient(to right, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to right, #ca4053 0%, #aa3646 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_default .slider_swiper.slider_controls_side .slider_prev.sc_button_hover_slide_right,
 .scheme_default .slider_swiper.slider_controls_side .slider_next.sc_button_hover_slide_right,
 .scheme_default .trx_addons_video_player.with_cover .video_hover.sc_button_hover_slide_right {
-    background: linear-gradient(to left, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to left, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_default .slider_swiper.slider_controls_side .slider_prev.sc_button_hover_slide_top,
 .scheme_default .slider_swiper.slider_controls_side .slider_next.sc_button_hover_slide_top,
 .scheme_default .trx_addons_video_player.with_cover .video_hover.sc_button_hover_slide_top {
-    background: linear-gradient(to bottom, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to bottom, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_default .slider_swiper.slider_controls_side .slider_prev.sc_button_hover_slide_bottom,
 .scheme_default .slider_swiper.slider_controls_side .slider_next.sc_button_hover_slide_bottom,
 .scheme_default .trx_addons_video_player.with_cover .video_hover.sc_button_hover_slide_bottom {
-    background: linear-gradient(to top, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to top, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_default .slider_swiper.slider_controls_side .slider_prev:hover,
 .scheme_default .slider_swiper.slider_controls_side .slider_next:hover,
@@ -1663,37 +1663,37 @@ blockquote p,
 .scheme_default .slider_swiper.slider_controls_side .slider_prev:not([class*="sc_button_hover_"]):hover,
 .scheme_default .slider_swiper.slider_controls_side .slider_next:not([class*="sc_button_hover_"]):hover {
     color: #ffffff;
-    background-color: #64c9ab
+    background-color: #80ffd7
 }
 .scheme_default .sc_item_subtitle {
     color: #202020
 }
 .scheme_default .trx_addons_hover_content .trx_addons_hover_links a {
     color: #ffffff;
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_default .trx_addons_hover_content .trx_addons_hover_links a:not([class*="sc_button_hover_"]),
 .scheme_default .trx_addons_hover_content .trx_addons_hover_links a.sc_button_hover_slide_left {
-    background: linear-gradient(to right, #ffffff 50%, #64c9ab 50%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to right, #ffffff 50%, #80ffd7 50%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_default .trx_addons_hover_content .trx_addons_hover_links a.sc_button_hover_slide_right {
-    background: linear-gradient(to left, #ffffff 50%, #64c9ab 50%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to left, #ffffff 50%, #80ffd7 50%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_default .trx_addons_hover_content .trx_addons_hover_links a.sc_button_hover_slide_top {
-    background: linear-gradient(to bottom, #ffffff 50%, #64c9ab 50%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to bottom, #ffffff 50%, #80ffd7 50%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_default .trx_addons_hover_content .trx_addons_hover_links a.sc_button_hover_slide_bottom {
-    background: linear-gradient(to top, #ffffff 50%, #64c9ab 50%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to top, #ffffff 50%, #80ffd7 50%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_default .trx_addons_hover_content .trx_addons_hover_links a:hover {
-    color: #0481ac!important;
+    color: #cb4154!important;
     background-position: left bottom
 }
 .scheme_default .trx_addons_hover_content .trx_addons_hover_links a:not([class*="sc_button_hover_"]):hover {
     background-color: #ffffff
 }
 .scheme_default .sc_action_item_event .sc_action_item_subtitle {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .sc_action_item_description {
     color: #202020
@@ -1704,37 +1704,37 @@ blockquote p,
     border-color: #585f63
 }
 .scheme_default .sc_action_item_default .sc_action_item_link {
-    color: #0481ac;
+    color: #cb4154;
     border-color: #ffffff;
     background-color: #ffffff
 }
 .scheme_default .sc_action_item_event .sc_action_item_link {
-    color: #0481ac;
+    color: #cb4154;
     border-color: #202020;
     background-color: #202020
 }
 .scheme_default .sc_action_item .sc_action_item_link:not([class*="sc_button_hover_"]),
 .scheme_default .sc_action_item .sc_action_item_link.sc_button_hover_slide_left {
-    background: linear-gradient(to right, #0498bd 0%, #035a95 50%, #ffffff 0%, #ffffff 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to right, #cb4154 0%, #cb4154 50%, #ffffff 0%, #ffffff 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_default .sc_action_item .sc_action_item_link.sc_button_hover_slide_right {
-    background: linear-gradient(to left, #0498bd 0%, #035a95 50%, #ffffff 0%, #ffffff 100%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to left, #cb4154 0%, #cb4154 50%, #ffffff 0%, #ffffff 100%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_default .sc_action_item .sc_action_item_link.sc_button_hover_slide_top {
-    background: linear-gradient(to bottom, #0498bd 0%, #035a95 50%, #ffffff 0%, #ffffff 100%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to bottom, #cb4154 0%, #cb4154 50%, #ffffff 0%, #ffffff 100%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_default .sc_action_item .sc_action_item_link.sc_button_hover_slide_bottom {
-    background: linear-gradient(to top, #0498bd 0%, #035a95 50%, #ffffff 0%, #ffffff 100%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to top, #cb4154 0%, #cb4154 50%, #ffffff 0%, #ffffff 100%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_default .sc_action_item .sc_action_item_link:hover {
     color: #ffffff;
-    border-color: #64c9ab;
+    border-color: #80ffd7;
     background-position: left bottom
 }
 .scheme_default .sc_action_item .sc_action_item_link:not([class*="sc_button_hover_"]):hover {
     color: #ffffff;
-    border-color: #64c9ab;
-    background-color: #64c9ab
+    border-color: #80ffd7;
+    background-color: #80ffd7
 }
 .scheme_default #toc_menu .toc_menu_icon {
     background-color: #ffffff
@@ -1744,17 +1744,17 @@ blockquote p,
 }
 .scheme_default #toc_menu .toc_menu_item:hover .toc_menu_icon:before,
 .scheme_default #toc_menu .toc_menu_item_active .toc_menu_icon:before {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default #toc_menu .toc_menu_icon_default:before {
     background-color: #202020
 }
 .scheme_default #toc_menu .toc_menu_item:hover .toc_menu_icon_default:before,
 .scheme_default #toc_menu .toc_menu_item_active .toc_menu_icon_default:before {
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_default #toc_menu .toc_menu_description {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .sc_blogger_default .sc_blogger_item,
 .scheme_default .sc_blogger_classic .sc_blogger_item {}.scheme_default .sc_blogger_default .sc_blogger_post_meta,
@@ -1763,7 +1763,7 @@ blockquote p,
 }
 .scheme_default .sc_blogger_default .sc_blogger_post_meta a,
 .scheme_default .sc_blogger_classic .sc_blogger_post_meta a {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .sc_blogger_default .sc_blogger_item_title a,
 .scheme_default .sc_blogger_classic .sc_blogger_item_title a {
@@ -1771,7 +1771,7 @@ blockquote p,
 }
 .scheme_default .sc_blogger_default .sc_blogger_item_title a:hover,
 .scheme_default .sc_blogger_classic .sc_blogger_item_title a:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .sc_blogger_default .sc_blogger_post_meta,
 .scheme_default .sc_blogger_classic .sc_blogger_post_meta {
@@ -1782,37 +1782,37 @@ blockquote p,
     color: #5f5f5f
 }
 .scheme_default .sc_blogger_classic .sc_blogger_item .more-link {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .sc_blogger_classic .sc_blogger_item .more-link:hover {
     color: #2a2a2a
 }
 .scheme_default .sc_blogger_classic .sc_item_button .sc_button {
-    background: linear-gradient(to right, #0498bd 0%, #035a95 50%, #64c9ab 0%, #64c9ab 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to right, #cb4154 0%, #cb4154 50%, #80ffd7 0%, #80ffd7 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_default .sc_courses_default .sc_courses_item {
-    background-color: #f1f6fb
+    background-color: #fbf1f2
 }
 .scheme_default .sc_courses_default .sc_courses_item_categories {
-    background-color: #64c9ab
+    background-color: #80ffd7
 }
 .scheme_default .sc_courses_default .sc_courses_item_categories a {
     color: #ffffff
 }
 .scheme_default .sc_courses_default .sc_courses_item_categories a:hover {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .sc_courses_default .sc_courses_item_price {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .sc_courses_default .sc_courses_item_period {
     color: #585f63
 }
 .scheme_default .sc_events_item {
-    background-color: #f1f6fb
+    background-color: #fbf1f2
 }
 .scheme_default .sc_events_item_date {
-    background-color: #64c9ab;
+    background-color: #80ffd7;
     color: #ffffff
 }
 .scheme_default .sc_events_item:hover .sc_events_item_date {
@@ -1822,10 +1822,10 @@ blockquote p,
     color: #2a2a2a
 }
 .scheme_default .sc_events_item:hover .sc_events_item_title {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .sc_events_item_button {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .sc_events_item:hover .sc_events_item_button {
     color: #2a2a2a
@@ -1839,14 +1839,14 @@ blockquote p,
 .scheme_default .sc_form .sc_form_field input[type="text"],
 .scheme_default .sc_form .sc_form_field textarea {
     color: #707f8b;
-    border-color: #f1f6fb;
-    background-color: #f1f6fb
+    border-color: #fbf1f2;
+    background-color: #fbf1f2
 }
 .scheme_default .sc_form .sc_form_field input[type="text"]:focus,
 .scheme_default .sc_form .sc_form_field textarea:focus {
     color: #707f8b;
-    border-color: #64c9ab;
-    background-color: #f1f6fb
+    border-color: #80ffd7;
+    background-color: #fbf1f2
 }
 .scheme_default .sc_form_field button {
     color: #ffffff;
@@ -1865,16 +1865,16 @@ blockquote p,
 }
 .scheme_default .sc_form_field button:not([class*="sc_button_hover_"]),
 .scheme_default .sc_form_field button.sc_button_hover_slide_left {
-    background: linear-gradient(to right, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to right, #ca4053 0%, #aa3646 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_default .sc_form_field button.sc_button_hover_slide_right {
-    background: linear-gradient(to left, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to left, #ca4053 0%, #aa3646 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_default .sc_form_field button.sc_button_hover_slide_top {
-    background: linear-gradient(to bottom, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to bottom, #ca4053 0%, #aa3646 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_default .sc_form_field button.sc_button_hover_slide_bottom {
-    background: linear-gradient(to top, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to top, #ca4053 0%, #aa3646 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_default .sc_form_field button:hover {
     color: #ffffff!important;
@@ -1885,14 +1885,14 @@ blockquote p,
     background-color: #202020!important
 }
 .scheme_default .sc_form .sc_form_info_icon {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .sc_form .sc_form_info_data>a,
 .scheme_default .sc_form .sc_form_info_data>span {
     color: #707f8b
 }
 .scheme_default .sc_form .sc_form_info_data>a:hover {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default [class*="sc_input_hover_"] .sc_form_field_content {
     color: #202020
@@ -1905,19 +1905,19 @@ blockquote p,
 .scheme_default .sc_input_hover_accent input[type="search"]:focus,
 .scheme_default .sc_input_hover_accent select:focus,
 .scheme_default .sc_input_hover_accent textarea:focus {
-    border-color: #0481ac!important
+    border-color: #cb4154!important
 }
 .scheme_default .sc_input_hover_accent .sc_form_field_hover:before {
     color: rgba(4, 129, 172, 0.6)
 }
 .scheme_default .sc_input_hover_path .sc_form_field_graphic {
-    stroke: #f1f6fb
+    stroke: #fbf1f2
 }
 .scheme_default .sc_input_hover_jump .sc_form_field_content {
     color: #707f8b
 }
 .scheme_default .sc_input_hover_jump .sc_form_field_content:before {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .sc_input_hover_jump input[type="text"],
 .scheme_default .sc_input_hover_jump input[type="number"],
@@ -1925,7 +1925,7 @@ blockquote p,
 .scheme_default .sc_input_hover_jump input[type="password"],
 .scheme_default .sc_input_hover_jump input[type="search"],
 .scheme_default .sc_input_hover_jump textarea {
-    border-color: #f1f6fb
+    border-color: #fbf1f2
 }
 .scheme_default .sc_input_hover_jump input[type="text"]:focus,
 .scheme_default .sc_input_hover_jump input[type="number"]:focus,
@@ -1933,16 +1933,16 @@ blockquote p,
 .scheme_default .sc_input_hover_jump input[type="password"]:focus,
 .scheme_default .sc_input_hover_jump input[type="search"]:focus,
 .scheme_default .sc_input_hover_jump textarea:focus {
-    border-color: #0481ac!important
+    border-color: #cb4154!important
 }
 .scheme_default .sc_input_hover_underline .sc_form_field_hover:before {
-    background-color: #f1f6fb
+    background-color: #fbf1f2
 }
 .scheme_default .sc_input_hover_underline input:focus+.sc_form_field_hover:before,
 .scheme_default .sc_input_hover_underline textarea:focus+.sc_form_field_hover:before,
 .scheme_default .sc_input_hover_underline input.filled+.sc_form_field_hover:before,
 .scheme_default .sc_input_hover_underline textarea.filled+.sc_form_field_hover:before {
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_default .sc_input_hover_underline .sc_form_field_content {
     color: #707f8b
@@ -1955,7 +1955,7 @@ blockquote p,
 .scheme_default .sc_input_hover_underline textarea:focus+.sc_form_field_hover>.sc_form_field_content,
 .scheme_default .sc_input_hover_underline input.filled+.sc_form_field_hover>.sc_form_field_content,
 .scheme_default .sc_input_hover_underline textarea.filled+.sc_form_field_hover>.sc_form_field_content {
-    color: #0481ac!important
+    color: #cb4154!important
 }
 .scheme_default .sc_input_hover_iconed .sc_form_field_hover {
     color: #707f8b
@@ -1978,16 +1978,16 @@ blockquote p,
     color: #202020
 }
 .scheme_default .sc_googlemap_content_detailed:before {
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_default .sc_icons .sc_icons_icon {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .sc_icons .sc_icons_item_linked:hover .sc_icons_icon {
     color: #202020
 }
 .scheme_default .sc_icons .sc_icons_title {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .sc_icons_description,
 .scheme_default .sc_icons_modern .sc_icons_description {
@@ -1996,39 +1996,39 @@ blockquote p,
 .scheme_default .sc_price {
     color: #585f63;
     border-color: #202020;
-    background-color: #f1f6fb
+    background-color: #fbf1f2
 }
 .scheme_default .sc_price .sc_price_icon {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .sc_price .sc_price_icon:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .sc_price_period {
     color: #202020
 }
 .scheme_default .sc_price .sc_price_price {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .sc_price .sc_price_description {
     color: #585f63
 }
 .scheme_default .sc_price_link {
     color: #ffffff;
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_default .sc_price_link:not([class*="sc_button_hover_"]),
 .scheme_default .sc_price_link.sc_button_hover_slide_left {
-    background: linear-gradient(to right, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to right, #ca4053 0%, #aa3646 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_default .sc_price_link.sc_button_hover_slide_right {
-    background: linear-gradient(to left, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to left, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_default .sc_price_link.sc_button_hover_slide_top {
-    background: linear-gradient(to bottom, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to bottom, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_default .sc_price_link.sc_button_hover_slide_bottom {
-    background: linear-gradient(to top, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to top, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_default .sc_price_link:hover {
     color: #ffffff;
@@ -2036,7 +2036,7 @@ blockquote p,
 }
 .scheme_default .sc_price_link:not([class*="sc_button_hover_"]):hover {
     color: #ffffff;
-    background-color: #64c9ab
+    background-color: #80ffd7
 }
 .scheme_default.sc_promo {
     background-color: #ffffff
@@ -2047,14 +2047,14 @@ blockquote p,
 }
 .scheme_default .sc_promo .sc_promo_button a,
 .scheme_default.sc_promo .sc_promo_button a {
-    color: #0481ac!important
+    color: #cb4154!important
 }
 .scheme_default .sc_promo .sc_promo_button a:hover,
 .scheme_default.sc_promo .sc_promo_button a:hover {
-    color: #64c9ab!important
+    color: #80ffd7!important
 }
 .scheme_default .sc_skills_counter .sc_skills_icon {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .sc_skills .sc_skills_total,
 .scheme_default .sc_skills .sc_skills_legend_title,
@@ -2067,7 +2067,7 @@ blockquote p,
 }
 .scheme_default .sc_socials .socials_wrap a {
     color: #ffffff;
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_default .sc_socials .socials_wrap a:hover {
     color: #ffffff;
@@ -2075,11 +2075,11 @@ blockquote p,
 }
 .scheme_default .sc_table table thead tr td {
     color: #ffffff;
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_default .sc_table table td {
     color: #202020;
-    background-color: #f1f6fb
+    background-color: #fbf1f2
 }
 .scheme_default .sc_testimonials_item {}.scheme_default .sc_testimonials_item_content {
     color: #202020
@@ -2088,7 +2088,7 @@ blockquote p,
     color: #202020
 }
 .scheme_default .sc_testimonials_item_author_title {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .sc_testimonials_item_author_subtitle {
     color: #787e84
@@ -2097,22 +2097,22 @@ blockquote p,
     background-color: #585f63
 }
 .scheme_default .sc_testimonials_item:before {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .sc_team_default .sc_team_item {
-    background-color: #f1f6fb
+    background-color: #fbf1f2
 }
 .scheme_default .sc_team_default .sc_team_item_subtitle {
     color: #9d9c9c
 }
 .scheme_default .sc_services_default .sc_services_item {
-    background: linear-gradient(to right, #035a95 0%, #0498bd 50%, #f1f6fb 0%, #f1f6fb 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to right, #cb4154 0%, #cb4154 50%, #fbf1f2 0%, #fbf1f2 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_default .sc_services_default .sc_services_item:hover {
     background-position: left bottom
 }
 .scheme_default .sc_services_default .sc_services_item .sc_services_item_icon {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .sc_services_default .sc_services_item .sc_services_item_title a {
     color: #202020
@@ -2123,8 +2123,8 @@ blockquote p,
 }
 .scheme_default .trx_addons_scroll_to_top,
 .scheme_default .trx_addons_cv .trx_addons_scroll_to_top {
-    border-color: #0481ac;
-    background-color: #0481ac;
+    border-color: #cb4154;
+    background-color: #cb4154;
     color: #ffffff
 }
 .scheme_default .trx_addons_scroll_to_top:hover,
@@ -2134,15 +2134,15 @@ blockquote p,
     color: #ffffff
 }
 .scheme_default .trx_addons_profiler {
-    background-color: #f1f6fb;
-    border-color: #0498bd
+    background-color: #fbf1f2;
+    border-color: #cb4154
 }
 .scheme_default .trx_addons_profiler_title {
     color: #2a2a2a
 }
 .scheme_default .trx_addons_profiler table td,
 .scheme_default .trx_addons_profiler table th {
-    border-color: #035a95
+    border-color: #cb4154
 }
 .scheme_default .trx_addons_profiler table td {
     color: #5f5f5f
@@ -2154,10 +2154,10 @@ blockquote p,
 .scheme_default .trx_addons_cv,
 .scheme_default .trx_addons_cv_body_wrap {
     color: #5f5f5f;
-    background-color: #f1f6fb
+    background-color: #fbf1f2
 }
 .scheme_default .trx_addons_cv a {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_default .trx_addons_cv a:hover {
     color: #2a2a2a
@@ -2180,13 +2180,13 @@ blockquote p,
 }
 .scheme_default .trx_addons_cv_navi_buttons .trx_addons_cv_navi_buttons_area .trx_addons_cv_navi_buttons_item {
     color: #9d9c9c;
-    background-color: #f1f6fb;
+    background-color: #fbf1f2;
     border-color: #ffffff
 }
 .scheme_default .trx_addons_cv_navi_buttons .trx_addons_cv_navi_buttons_area .trx_addons_cv_navi_buttons_item_active,
 .scheme_default .trx_addons_cv_navi_buttons .trx_addons_cv_navi_buttons_area .trx_addons_cv_navi_buttons_item:hover {
     color: #2a2a2a;
-    border-color: #f1f6fb
+    border-color: #fbf1f2
 }
 .scheme_default .trx_addons_cv .trx_addons_cv_section_title,
 .scheme_default .trx_addons_cv .trx_addons_cv_section_title a {
@@ -2240,7 +2240,7 @@ blockquote p,
 .scheme_default .trx_addons_tabs_content_delimiter .trx_addons_cv_resume_columns_4 .trx_addons_cv_resume_column:nth-child(4n+6) .trx_addons_cv_resume_item,
 .scheme_default .trx_addons_tabs_content_delimiter .trx_addons_cv_resume_columns_4 .trx_addons_cv_resume_column:nth-child(4n+7) .trx_addons_cv_resume_item,
 .scheme_default .trx_addons_tabs_content_delimiter .trx_addons_cv_resume_columns_4 .trx_addons_cv_resume_column:nth-child(4n+8) .trx_addons_cv_resume_item {
-    border-color: #035a95
+    border-color: #cb4154
 }
 .scheme_default .trx_addons_cv_resume_item_meta {
     color: #2a2a2a
@@ -2290,12 +2290,12 @@ blockquote p,
 }
 .scheme_default .trx_addons_contact_form .trx_addons_contact_form_field input[type="text"],
 .scheme_default .trx_addons_contact_form .trx_addons_contact_form_field textarea {
-    border-color: #035a95;
+    border-color: #cb4154;
     color: #5f5f5f
 }
 .scheme_default .trx_addons_contact_form .trx_addons_contact_form_field input[type="text"]:focus,
 .scheme_default .trx_addons_contact_form .trx_addons_contact_form_field textarea:focus {
-    background-color: #f1f6fb;
+    background-color: #fbf1f2;
     color: #2a2a2a
 }
 .scheme_default .trx_addons_contact_form_field button {
@@ -2332,16 +2332,16 @@ blockquote p,
     background-color: #202020
 }
 .scheme_default .vc_tta.vc_tta-accordion .vc_tta-panel-heading .vc_tta-controls-icon.sc_button_hover_slide_left {
-    background: linear-gradient(to right, #0481ac 50%, #202020 50%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to right, #cb4154 50%, #202020 50%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_default .vc_tta.vc_tta-accordion .vc_tta-panel-heading .vc_tta-controls-icon.sc_button_hover_slide_right {
-    background: linear-gradient(to left, #0481ac 50%, #202020 50%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to left, #cb4154 50%, #202020 50%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_default .vc_tta.vc_tta-accordion .vc_tta-panel-heading .vc_tta-controls-icon.sc_button_hover_slide_top {
-    background: linear-gradient(to bottom, #0481ac 50%, #202020 50%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to bottom, #cb4154 50%, #202020 50%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_default .vc_tta.vc_tta-accordion .vc_tta-panel-heading .vc_tta-controls-icon.sc_button_hover_slide_bottom {
-    background: linear-gradient(to top, #0481ac 50%, #202020 50%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to top, #cb4154 50%, #202020 50%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_default .vc_tta.vc_tta-accordion .vc_tta-panel-heading .vc_tta-controls-icon:before,
 .scheme_default .vc_tta.vc_tta-accordion .vc_tta-panel-heading .vc_tta-controls-icon:after {
@@ -2352,7 +2352,7 @@ blockquote p,
 }
 .scheme_default .vc_tta-color-grey.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-title>a,
 .scheme_default .vc_tta-color-grey.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-title>a:hover {
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_default .vc_tta-color-grey.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-title>a:hover .sc_button_hover_slide_left {
     background-position: left bottom!important
@@ -2369,7 +2369,7 @@ blockquote p,
 .scheme_default .vc_tta-color-grey.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-title>a .vc_tta-controls-icon,
 .scheme_default .vc_tta-color-grey.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-title>a:hover .vc_tta-controls-icon {
     color: #ffffff;
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_default .vc_tta-color-grey.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-title>a .vc_tta-controls-icon:before,
 .scheme_default .vc_tta-color-grey.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-title>a .vc_tta-controls-icon:after {
@@ -2383,16 +2383,16 @@ blockquote p,
     background-color: #202020
 }
 .scheme_default .vc_tta-color-grey.vc_tta-style-classic .vc_tta-tab>a.sc_button_hover_slide_left {
-    background: linear-gradient(to right, #0481ac 50%, rgba(0, 0, 0, 0) 50%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to right, #cb4154 50%, rgba(0, 0, 0, 0) 50%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_default .vc_tta-color-grey.vc_tta-style-classic .vc_tta-tab>a.sc_button_hover_slide_right {
-    background: linear-gradient(to left, #0481ac 50%, rgba(0, 0, 0, 0) 50%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to left, #cb4154 50%, rgba(0, 0, 0, 0) 50%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_default .vc_tta-color-grey.vc_tta-style-classic .vc_tta-tab>a.sc_button_hover_slide_top {
-    background: linear-gradient(to bottom, #0481ac 50%, rgba(0, 0, 0, 0) 50%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to bottom, #cb4154 50%, rgba(0, 0, 0, 0) 50%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_default .vc_tta-color-grey.vc_tta-style-classic .vc_tta-tab>a.sc_button_hover_slide_bottom {
-    background: linear-gradient(to top, #0481ac 50%, rgba(0, 0, 0, 0) 50%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to top, #cb4154 50%, rgba(0, 0, 0, 0) 50%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_default .vc_tta-color-grey.vc_tta-style-classic .vc_tta-tab.vc_active>a.sc_button_hover_slide_left {
     background: linear-gradient(to right, #202020 50%, rgba(0, 0, 0, 0) 50%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
@@ -2412,7 +2412,7 @@ blockquote p,
 }
 .scheme_default .vc_tta-color-grey.vc_tta-style-classic .vc_tta-tab:hover>a:not([class*="sc_button_hover_"]),
 .scheme_default .vc_tta-color-grey.vc_tta-style-classic .vc_tta-tab>a:not([class*="sc_button_hover_"]):hover {
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_default .vc_separator.vc_sep_color_grey .vc_sep_line {
     border-color: #dbe1e6
@@ -2421,11 +2421,11 @@ blockquote p,
     background-color: #dbe1e6
 }
 .scheme_default .vc_progress_bar.vc_progress_bar_narrow.vc_progress-bar-color-bar_red .vc_single_bar .vc_bar {
-    background: #035a95;
-    background: -moz-linear-gradient(left, #035a95 0%, #0498bd 100%);
-    background: -webkit-linear-gradient(left, #035a95 0%, #0498bd 100%);
-    background: linear-gradient(to right, #035a95 0%, #0498bd 100%);
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#035a95', endColorstr='#0498bd', GradientType=1);
+    background: #cb4154;
+    background: -moz-linear-gradient(left, #cb4154 0%, #cb4154 100%);
+    background: -webkit-linear-gradient(left, #cb4154 0%, #cb4154 100%);
+    background: linear-gradient(to right, #cb4154 0%, #cb4154 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#cb4154', endColorstr='#cb4154', GradientType=1);
 }
 .scheme_default .vc_progress_bar.vc_progress_bar_narrow .vc_single_bar .vc_label {
     color: #202020
@@ -2469,7 +2469,7 @@ blockquote p,
     color: #ffffff
 }
 .scheme_dark a:hover {
-    color: #64c9ab
+    color: #cb4154
 }
 .scheme_dark blockquote {
     color: #ffffff
@@ -2483,7 +2483,7 @@ blockquote p,
 .scheme_dark .sc_blockquote_content:before,
 .scheme_dark blockquote a:hover,
 .scheme_dark aside blockquote a:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark table {
     color: #ffffff
@@ -2569,8 +2569,8 @@ blockquote p,
 .scheme_dark input[type="reset"]:not([class*="sc_button_hover_"]):focus,
 .scheme_dark input[type="button"]:not([class*="sc_button_hover_"]):focus,
 .scheme_dark button:not([class*="sc_button_hover_"]):focus {
-    border-color: #64c9ab;
-    background-color: #64c9ab;
+    border-color: #80ffd7;
+    background-color: #80ffd7;
     color: #ffffff
 }
 .scheme_dark .sticky {
@@ -2581,11 +2581,11 @@ blockquote p,
 }
 .scheme_dark body {
     color: #ffffff;
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_dark #page_preloader,
 .scheme_dark .page_wrap {
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_dark .preloader_wrap>div {
     background-color: #ffffff
@@ -2594,24 +2594,24 @@ blockquote p,
     background-color: rgba(4, 129, 172, 0.85)
 }
 .scheme_dark .top_panel .top_panel_navi {
-    background: #0481ac
+    background: #cb4154
 }
 .scheme_dark .top_panel .top_panel_navi {
-    background: #035a95;
-    background: -moz-linear-gradient(left, #035a95 0%, #0498bd 100%);
-    background: -webkit-linear-gradient(left, #035a95 0%, #0498bd 100%);
-    background: linear-gradient(to right, #035a95 0%, #0498bd 100%);
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#035a95', endColorstr='#0498bd', GradientType=1);
+    background: #cb4154;
+    background: -moz-linear-gradient(left, #cb4154 0%, #cb4154 100%);
+    background: -webkit-linear-gradient(left, #cb4154 0%, #cb4154 100%);
+    background: linear-gradient(to right, #cb4154 0%, #cb4154 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#cb4154', endColorstr='#cb4154', GradientType=1);
 }
 .scheme_dark .top_panel.top_panel_style_2 .top_panel_navi {
-    background: #035a95;
-    background: -moz-linear-gradient(left, #035a95 0%, #0498bd 60%);
-    background: -webkit-linear-gradient(left, #035a95 0%, #0498bd 60%);
-    background: linear-gradient(to right, #035a95 0%, #0498bd 60%);
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#035a95', endColorstr='#0498bd', GradientType=1);
+    background: #cb4154;
+    background: -moz-linear-gradient(left, #cb4154 0%, #cb4154 60%);
+    background: -webkit-linear-gradient(left, #cb4154 0%, #cb4154 60%);
+    background: linear-gradient(to right, #cb4154 0%, #cb4154 60%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#cb4154', endColorstr='#cb4154', GradientType=1);
 }
 .scheme_dark .top_panel .top_panel_navi:before {
-    background: #0481ac
+    background: #cb4154
 }
 .scheme_dark .logo b {
     color: #ffffff
@@ -2627,11 +2627,12 @@ blockquote p,
 }
 .scheme_dark .socials_wrap .social_item a,
 .scheme_dark .socials_wrap .social_item a i {
-    color: #ffffff
+    color: #ffffff;
+    font-size: 15px !important;
 }
 .scheme_dark .socials_wrap .social_item a:hover,
 .scheme_dark .socials_wrap .social_item a:hover i {
-    color: #64c9ab
+    color: #cb4154
 }
 .scheme_dark .search_wrap .search_field {
     color: #ffffff
@@ -2647,7 +2648,7 @@ blockquote p,
     color: #ffffff
 }
 .scheme_dark .search_style_expand.search_opened {
-    background-color: #0481ac;
+    background-color: #cb4154;
     border-color: #000000
 }
 .scheme_dark .search_style_expand.search_opened .search_submit {
@@ -2692,11 +2693,11 @@ blockquote p,
     opacity: 1
 }
 .scheme_dark .search_wrap .search_results {
-    background-color: #0481ac;
+    background-color: #cb4154;
     border-color: #000000
 }
 .scheme_dark .search_wrap .search_results:after {
-    background-color: #0481ac;
+    background-color: #cb4154;
     border-left-color: #000000;
     border-top-color: #000000
 }
@@ -2723,14 +2724,14 @@ blockquote p,
 .scheme_dark .menu_main_nav>li.current-menu-item>a,
 .scheme_dark .menu_main_nav>li.current-menu-parent>a,
 .scheme_dark .menu_main_nav>li.current-menu-ancestor>a {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark .menu_header_nav>li+li:before,
 .scheme_dark .menu_main_nav>li+li:before {
     border-color: #000000
 }
 .scheme_dark .menu_main_nav>li ul {
-    background-color: #0481ac;
+    background-color: #cb4154;
     border-color: #ffffff
 }
 .scheme_dark .menu_main_nav>li>ul:before {
@@ -2748,12 +2749,12 @@ blockquote p,
 }
 .scheme_dark .menu_main_nav>li li>a:hover,
 .scheme_dark .menu_main_nav>li li.sfHover>a {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark .menu_main_nav>li li.current-menu-item>a,
 .scheme_dark .menu_main_nav>li li.current-menu-parent>a,
 .scheme_dark .menu_main_nav>li li.current-menu-ancestor>a {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark>.phone_wrap,
 .scheme_dark>.socials_wrap a,
@@ -2765,7 +2766,7 @@ blockquote p,
 .scheme_dark>.search_wrap button.search_submit:hover,
 .scheme_dark>.search_wrap button.search_submit:focus,
 .scheme_dark>.socials_wrap a:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark .side_text_wrap .text_left a,
 .scheme_dark .side_text_wrap .text_right a {
@@ -2776,7 +2777,7 @@ blockquote p,
 .scheme_dark .menu_side_inner,
 .scheme_dark .menu_mobile_inner {
     color: #ffffff;
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_dark .menu_mobile_close:before,
 .scheme_dark .menu_mobile_close:after,
@@ -2788,7 +2789,7 @@ blockquote p,
 .scheme_dark .menu_mobile_close:hover:after,
 .scheme_dark .menu_mobile_button:hover,
 .scheme_dark .menu_mobile_button:hover:before {
-    border-color: #64c9ab
+    border-color: #80ffd7
 }
 .scheme_dark .menu_mobile_inner a {
     color: #ffffff
@@ -2809,7 +2810,7 @@ blockquote p,
     background-color: #343434
 }
 .scheme_dark .top_panel_title:after {
-    background-color: #035a95
+    background-color: #cb4154
 }
 .scheme_dark .top_panel_title .post_meta {
     color: #ffffff
@@ -2904,17 +2905,17 @@ blockquote p,
 .scheme_dark .post_item .post_date a:hover,
 .scheme_dark .post_item a.post_meta_item:hover,
 .scheme_dark .post_item .post_meta_item a:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark .post_item .post_meta_item.post_categories a {
     color: #ffffff
 }
 .scheme_dark .post_item .post_meta_item.post_categories a:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark .post_meta_item .social_items,
 .scheme_dark .post_meta_item .social_items:before {
-    background-color: #0481ac;
+    background-color: #cb4154;
     border-color: #000000;
     color: #bac2c7
 }
@@ -2922,29 +2923,29 @@ blockquote p,
     border-color: #000000
 }
 .scheme_dark .post_layout_excerpt blockquote:before {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark .post_layout_classic {
     border-color: #000000
 }
 .scheme_dark.gallery_preview:before {
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_dark .post_featured:after {
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_dark .post_item .more-link {
     border-color: #ffffff
 }
 .scheme_dark .post_audio {
-    background: #035a95;
-    background: -moz-linear-gradient(left, #035a95 0%, #0498bd 100%);
-    background: -webkit-linear-gradient(left, #035a95 0%, #0498bd 100%);
-    background: linear-gradient(to right, #035a95 0%, #0498bd 100%);
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#035a95', endColorstr='#0498bd', GradientType=1);
+    background: #cb4154;
+    background: -moz-linear-gradient(left, #cb4154 0%, #cb4154 100%);
+    background: -webkit-linear-gradient(left, #cb4154 0%, #cb4154 100%);
+    background: linear-gradient(to right, #cb4154 0%, #cb4154 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#cb4154', endColorstr='#cb4154', GradientType=1);
 }
 .scheme_dark .post_audio .post_audio_author {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark .post_audio .post_audio_title {
     color: #ffffff
@@ -2961,12 +2962,12 @@ blockquote p,
 .scheme_dark .mejs-controls .mejs-button,
 .scheme_dark .mejs-controls .mejs-time-rail .mejs-time-current,
 .scheme_dark .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current {
-    color: #0481ac;
+    color: #cb4154;
     background: #ffffff
 }
 .scheme_dark .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current,
 .scheme_dark .mejs-controls .mejs-time-rail .mejs-time-current {
-    background: #64c9ab
+    background: #80ffd7
 }
 .scheme_dark .mejs-controls .mejs-button:hover {
     background: #ffffff
@@ -2978,18 +2979,18 @@ blockquote p,
 }
 .scheme_dark .format-aside .post_content_inner {
     color: #ffffff;
-    background: #035a95;
-    background: -moz-linear-gradient(left, #035a95 0%, #0498bd 100%);
-    background: -webkit-linear-gradient(left, #035a95 0%, #0498bd 100%);
-    background: linear-gradient(to right, #035a95 0%, #0498bd 100%);
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#035a95', endColorstr='#0498bd', GradientType=1);
+    background: #cb4154;
+    background: -moz-linear-gradient(left, #cb4154 0%, #cb4154 100%);
+    background: -webkit-linear-gradient(left, #cb4154 0%, #cb4154 100%);
+    background: linear-gradient(to right, #cb4154 0%, #cb4154 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#cb4154', endColorstr='#cb4154', GradientType=1);
 }
 .scheme_dark .format-link .post_content_inner {
     color: #ffffff;
     background-color: #ffffff
 }
 .scheme_dark .format-link .post_content_inner a {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark .format-status .post_content_inner {
     color: #ffffff
@@ -3004,7 +3005,7 @@ blockquote p,
 }
 .scheme_dark .post_layout_chess_2 .post_content_inner:after,
 .scheme_dark .post_layout_chess_3 .post_content_inner:after {
-    background: linear-gradient(to top, #0481ac 0%, rgba(4, 129, 172, 0) 100%) no-repeat scroll right top/ 100% 100% rgba(4, 129, 172, 0)
+    background: linear-gradient(to top, #cb4154 0%, rgba(4, 129, 172, 0) 100%) no-repeat scroll right top/ 100% 100% rgba(4, 129, 172, 0)
 }
 .scheme_dark .post_layout_chess_1 .post_meta:before {
     background-color: #000000
@@ -3028,7 +3029,7 @@ blockquote p,
 .scheme_dark .page_links>span:not(.page_links_title),
 .scheme_dark .nav-links .page-numbers.current {
     color: #ffffff;
-    background-color: #64c9ab
+    background-color: #80ffd7
 }
 .scheme_dark .post_item_single .post_header .post_date {
     color: #bac2c7
@@ -3052,7 +3053,7 @@ blockquote p,
 .scheme_dark .post_item_single .post_meta_item>a:hover,
 .scheme_dark .post_item_single .post_meta_item .socials_caption:hover,
 .scheme_dark .post_item_single .post_edit a:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark .post_item_single .post_content .post_meta_label,
 .scheme_dark .post_item_single .post_content .post_meta_item:hover .post_meta_label {
@@ -3082,7 +3083,7 @@ blockquote p,
     background: linear-gradient(to top, #ffffff 50%, #ffffff 50%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_dark .post_item_single .post_content .post_meta .post_share .social_item a:not([class*="sc_button_hover_"]):hover {
-    background-color: #64c9ab
+    background-color: #80ffd7
 }
 .scheme_dark .nav-links-single .nav-links {
     border-color: #000000
@@ -3116,7 +3117,7 @@ blockquote p,
     background-color: rgba(4, 129, 172, 0.85)
 }
 .scheme_dark .related_wrap .related_item_style_1:hover .post_header {
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_dark .related_wrap .related_item_style_1 .post_date a {
     color: #ffffff
@@ -3144,7 +3145,7 @@ blockquote p,
 }
 .scheme_dark .comments_list_wrap .comment_counters a:hover:before,
 .scheme_dark .comments_list_wrap .comment_counters a:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark .comments_list_wrap .comment_text {
     color: #ffffff
@@ -3162,7 +3163,7 @@ blockquote p,
     color: #ffffff
 }
 .scheme_dark .sidebar_inner {
-    background-color: #0481ac;
+    background-color: #cb4154;
     color: #ffffff
 }
 .scheme_dark .sidebar,
@@ -3191,10 +3192,10 @@ blockquote p,
     color: #ffffff
 }
 .scheme_dark aside a:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark aside li:before {
-    background-color: #64c9ab
+    background-color: #80ffd7
 }
 .scheme_dark .widget_area_inner .post_item .post_info .post_info_item,
 .scheme_dark aside .post_item .post_info .post_info_item,
@@ -3226,22 +3227,22 @@ blockquote p,
     color: #bac2c7
 }
 .scheme_dark .widget_calendar tbody td a:after {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark .widget_calendar tbody td a:hover,
 .scheme_dark .widget_calendar tbody td a:hover:after {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark .widget_calendar td#today:before {
-    border-color: #64c9ab
+    border-color: #80ffd7
 }
 .scheme_dark .widget_calendar #prev a,
 .scheme_dark .widget_calendar #next a {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark .widget_calendar #prev a:hover,
 .scheme_dark .widget_calendar #next a:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark .widget_categories li {
     color: #ffffff
@@ -3255,19 +3256,19 @@ blockquote p,
 .scheme_dark .widget_tag_cloud a:not([class*="sc_button_hover_"]),
 .scheme_dark .widget_product_tag_cloud a.sc_button_hover_slide_left,
 .scheme_dark .widget_tag_cloud a.sc_button_hover_slide_left {
-    background: linear-gradient(to right, #64c9ab 50%, rgba(0, 0, 0, 0) 50%) no-repeat scroll right bottom/ 210% 100% #343434
+    background: linear-gradient(to right, #80ffd7 50%, rgba(0, 0, 0, 0) 50%) no-repeat scroll right bottom/ 210% 100% #343434
 }
 .scheme_dark .widget_product_tag_cloud a.sc_button_hover_slide_right,
 .scheme_dark .widget_tag_cloud a.sc_button_hover_slide_right {
-    background: linear-gradient(to left, #64c9ab 50%, rgba(0, 0, 0, 0) 50%) no-repeat scroll left bottom/ 210% 100% #343434
+    background: linear-gradient(to left, #80ffd7 50%, rgba(0, 0, 0, 0) 50%) no-repeat scroll left bottom/ 210% 100% #343434
 }
 .scheme_dark .widget_product_tag_cloud a.sc_button_hover_slide_top,
 .scheme_dark .widget_tag_cloud a.sc_button_hover_slide_top {
-    background: linear-gradient(to bottom, #64c9ab 50%, rgba(0, 0, 0, 0) 50%) no-repeat scroll right bottom/ 100% 210% #343434
+    background: linear-gradient(to bottom, #80ffd7 50%, rgba(0, 0, 0, 0) 50%) no-repeat scroll right bottom/ 100% 210% #343434
 }
 .scheme_dark .widget_product_tag_cloud a.sc_button_hover_slide_bottom,
 .scheme_dark .widget_tag_cloud a.sc_button_hover_slide_bottom {
-    background: linear-gradient(to top, #64c9ab 50%, rgba(0, 0, 0, 0) 50%) no-repeat scroll right top/ 100% 210% #343434
+    background: linear-gradient(to top, #80ffd7 50%, rgba(0, 0, 0, 0) 50%) no-repeat scroll right top/ 100% 210% #343434
 }
 .scheme_dark .widget_product_tag_cloud a:hover,
 .scheme_dark .widget_tag_cloud a:hover {
@@ -3283,7 +3284,7 @@ blockquote p,
     color: #ffffff
 }
 .scheme_dark .widget_rss .widget_title a:first-child:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark .widget_rss .rss-date {
     color: #bac2c7
@@ -3291,7 +3292,7 @@ blockquote p,
 .scheme_dark .widget_text .mc4wp-form input[type="submit"] {
     border-color: #ffffff;
     background-color: #ffffff;
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_dark .widget_text .mc4wp-form input[type="submit"]:hover {
     color: #ffffff
@@ -3300,7 +3301,7 @@ blockquote p,
     color: #ffffff
 }
 .scheme_dark .widget_text .socials_wrap a:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark .bg_gradient,
 .scheme_dark .footer_wrap_inner,
@@ -3308,13 +3309,13 @@ blockquote p,
 .scheme_dark .socials_footer_wrap_inner,
 .scheme_dark .menu_footer_wrap_inner,
 .scheme_dark .copyright_wrap_inner {
-    background-color: #0481ac;
+    background-color: #cb4154;
     color: #ffffff;
-    background: #035a95;
-    background: -moz-linear-gradient(left, #035a95 0%, #006883 100%);
-    background: -webkit-linear-gradient(left, #035a95 0%, #006883 100%);
-    background: linear-gradient(to right, #035a95 0%, #006883 100%);
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#035a95', endColorstr='#006883', GradientType=1);
+    background: #cb4154;
+    background: -moz-linear-gradient(left, #cb4154 0%, #aa3646 100%);
+    background: -webkit-linear-gradient(left, #cb4154 0%, #aa3646 100%);
+    background: linear-gradient(to right, #cb4154 0%, #aa3646 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#cb4154', endColorstr='#aa3646', GradientType=1);
 }
 .scheme_dark .footer_wrap_inner h1,
 .scheme_dark .footer_wrap_inner h2,
@@ -3396,16 +3397,16 @@ blockquote p,
 }
 .scheme_dark .sc_price_link:not([class*="sc_button_hover_"]),
 .scheme_dark .sc_price_link.sc_button_hover_slide_left {
-    background: linear-gradient(to right, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to right, #ca4053 0%, #aa3646 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_dark .sc_price_link.sc_button_hover_slide_right {
-    background: linear-gradient(to left, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to left, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_dark .sc_price_link.sc_button_hover_slide_top {
-    background: linear-gradient(to bottom, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to bottom, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_dark .sc_price_link.sc_button_hover_slide_bottom {
-    background: linear-gradient(to top, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to top, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_dark .sc_price_link:hover {
     color: #ffffff;
@@ -3413,7 +3414,7 @@ blockquote p,
 }
 .scheme_dark .sc_price_link:not([class*="sc_button_hover_"]):hover {
     color: #ffffff;
-    background-color: #64c9ab
+    background-color: #80ffd7
 }
 .scheme_dark .theme_button,
 .scheme_dark .more-link,
@@ -3427,7 +3428,7 @@ blockquote p,
 .scheme_dark .more-link:not([class*="sc_button_hover_"]),
 .scheme_dark .socials_share:not(.socials_type_drop) .social_icons:not([class*="sc_button_hover_"]),
 .scheme_dark .comments_wrap .form-submit input[type="submit"]:not([class*="sc_button_hover_"]) {
-    background: linear-gradient(to right, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to right, #ca4053 0%, #aa3646 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_dark .theme_button:hover,
 .scheme_dark .more-link:hover,
@@ -3435,7 +3436,7 @@ blockquote p,
 .scheme_dark .comments_wrap .form-submit input[type="submit"]:hover,
 .scheme_dark .comments_wrap .form-submit input[type="submit"]:focus {
     color: #ffffff!important;
-    border-color: #64c9ab!important;
+    border-color: #80ffd7!important;
     background-position: left bottom
 }
 .scheme_dark .theme_button:not([class*="sc_button_hover_"]):hover,
@@ -3443,26 +3444,26 @@ blockquote p,
 .scheme_dark .socials_share:not(.socials_type_drop) .social_icons:not([class*="sc_button_hover_"]):hover,
 .scheme_dark .comments_wrap .form-submit input[type="submit"]:not([class*="sc_button_hover_"]):hover,
 .scheme_dark .comments_wrap .form-submit input[type="submit"]:not([class*="sc_button_hover_"]):focus {
-    background-color: #64c9ab!important
+    background-color: #80ffd7!important
 }
 .scheme_dark .format-video .post_featured.with_thumb .post_video_hover {
     color: #ffffff;
     border-color: #ffffff
 }
 .scheme_dark .format-video .post_featured.with_thumb .post_video_hover:not([class*="sc_button_hover_"]) {
-    background: linear-gradient(to right, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to right, #ca4053 0%, #aa3646 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_dark .format-video .post_featured.with_thumb .post_video_hover.sc_button_hover_slide_left {
-    background: linear-gradient(to right, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to right, #ca4053 0%, #aa3646 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_dark .format-video .post_featured.with_thumb .post_video_hover.sc_button_hover_slide_right {
-    background: linear-gradient(to left, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to left, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_dark .format-video .post_featured.with_thumb .post_video_hover.sc_button_hover_slide_top {
-    background: linear-gradient(to bottom, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to bottom, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_dark .format-video .post_featured.with_thumb .post_video_hover.sc_button_hover_slide_bottom {
-    background: linear-gradient(to top, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to top, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_dark .format-video .post_featured.with_thumb .post_video_hover:hover {
     color: #ffffff;
@@ -3490,16 +3491,16 @@ blockquote p,
     color: #ffffff
 }
 .scheme_dark .vc_row.vc_row-has-fill.bg_gradient:not(.fullwidth_1) {
-    background: #035a95;
-    background: -moz-linear-gradient(left, #035a95 0%, #0498bd 60%);
-    background: -webkit-linear-gradient(left, #035a95 0%, #0498bd 60%);
-    background: linear-gradient(to right, #035a95 0%, #0498bd 60%);
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#035a95', endColorstr='#0498bd', GradientType=1);
+    background: #cb4154;
+    background: -moz-linear-gradient(left, #cb4154 0%, #cb4154 60%);
+    background: -webkit-linear-gradient(left, #cb4154 0%, #cb4154 60%);
+    background: linear-gradient(to right, #cb4154 0%, #cb4154 60%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#cb4154', endColorstr='#cb4154', GradientType=1);
 }
 .scheme_dark .menu_hover_fade_box .menu_main_nav>a:hover,
 .scheme_dark .menu_hover_fade_box .menu_main_nav>li>a:hover,
 .scheme_dark .menu_hover_fade_box .menu_main_nav>li.sfHover>a {
-    color: #64c9ab;
+    color: #80ffd7;
     background-color: #343434
 }
 .scheme_dark .menu_hover_slide_line .menu_main_nav>li#blob {
@@ -3533,28 +3534,28 @@ blockquote p,
     color: #ffffff
 }
 .scheme_dark .sc_button_hover_slide_left {
-    background: linear-gradient(to right, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to right, #ca4053 0%, #aa3646 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_dark .sc_button_hover_slide_right {
-    background: linear-gradient(to left, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to left, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_dark .sc_button_hover_slide_top {
-    background: linear-gradient(to bottom, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to bottom, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_dark .sc_button_hover_slide_bottom {
-    background: linear-gradient(to top, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to top, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_dark form button.sc_button_hover_slide_left {
-    background: linear-gradient(to right, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to right, #ca4053 0%, #aa3646 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_dark form button.sc_button_hover_slide_right {
-    background: linear-gradient(to left, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to left, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_dark form button.sc_button_hover_slide_top {
-    background: linear-gradient(to bottom, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to bottom, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_dark form button.sc_button_hover_slide_bottom {
-    background: linear-gradient(to top, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to top, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_dark .post_featured .mask {
     background-color: rgba(255, 255, 255, 0.5)
@@ -3566,7 +3567,7 @@ blockquote p,
     color: #ffffff
 }
 .scheme_dark .post_featured.hover_icon .icons a {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark .post_featured.hover_icon a:hover {
     color: #ffffff
@@ -3576,7 +3577,7 @@ blockquote p,
     color: #ffffff
 }
 .scheme_dark .post_featured.hover_icons a:hover {
-    background-color: #0481ac;
+    background-color: #cb4154;
     color: #ffffff
 }
 .scheme_dark .post_featured.hover_fade .post_info,
@@ -3636,10 +3637,10 @@ blockquote p,
 }
 .scheme_dark .trx_addons_cv_resume_style_services .trx_addons_cv_resume_item_icon:hover,
 .scheme_dark .trx_addons_cv_resume_style_services .trx_addons_cv_resume_item_text a:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark .trx_addons_cv_resume_style_services .trx_addons_cv_resume_item_title>a:hover:after {
-    border-color: #64c9ab
+    border-color: #80ffd7
 }
 .scheme_dark .trx_addons_accent,
 .scheme_dark .trx_addons_accent>* {
@@ -3657,7 +3658,7 @@ blockquote p,
     color: #ffffff
 }
 .scheme_dark .trx_addons_hovered {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark .trx_addons_inverse {
     color: #ffffff;
@@ -3669,7 +3670,7 @@ blockquote p,
 }
 .scheme_dark .trx_addons_dropcap_style_2 {
     color: #ffffff;
-    background-color: #64c9ab
+    background-color: #80ffd7
 }
 .scheme_dark .trx_addons_tooltip {
     color: #ffffff;
@@ -3683,7 +3684,7 @@ blockquote p,
     border-top-color: #ffffff
 }
 .scheme_dark ul.trx_addons_list_dot_red>li:before {
-    background-color: #64c9ab
+    background-color: #80ffd7
 }
 .scheme_dark ul.trx_addons_list_dot_dark>li:before {
     background-color: #ffffff
@@ -3695,7 +3696,7 @@ blockquote p,
     color: #ffffff
 }
 .scheme_dark ul.trx_addons_list.icons li:before {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark blockquote.trx_addons_blockquote_style_1:before,
 .scheme_dark blockquote.trx_addons_blockquote_style_1 {
@@ -3706,7 +3707,7 @@ blockquote p,
     color: #ffffff
 }
 .scheme_dark blockquote.trx_addons_blockquote_style_1 a:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark blockquote.trx_addons_blockquote_style_2 {
     background-color: #ffffff;
@@ -3715,17 +3716,17 @@ blockquote p,
 .scheme_dark blockquote.trx_addons_blockquote_style_2:before,
 .scheme_dark blockquote.trx_addons_blockquote_style_2 a,
 .scheme_dark blockquote.trx_addons_blockquote_style_2 cite {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark blockquote.trx_addons_blockquote_style_2 a:hover {
     color: #ffffff
 }
 .scheme_dark .trx_addons_hover_mask {
-    background: #035a95;
-    background: -moz-linear-gradient(left, #0498bd 0%, #035a95 100%);
-    background: -webkit-linear-gradient(left, #0498bd 0%, #035a95 100%);
-    background: linear-gradient(to right, #0498bd 0%, #035a95 100%);
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#0498bd', endColorstr='#035a95', GradientType=1);
+    background: #cb4154;
+    background: -moz-linear-gradient(left, #cb4154 0%, #cb4154 100%);
+    background: -webkit-linear-gradient(left, #cb4154 0%, #cb4154 100%);
+    background: linear-gradient(to right, #cb4154 0%, #cb4154 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#cb4154', endColorstr='#cb4154', GradientType=1);
 }
 .scheme_dark .trx_addons_hover_title,
 .scheme_dark .trx_addons_hover_subtitle {
@@ -3737,11 +3738,11 @@ blockquote p,
 .scheme_dark .trx_addons_hover_icon,
 .scheme_dark .trx_addons_hover_links a {
     color: #ffffff;
-    background-color: #64c9ab
+    background-color: #80ffd7
 }
 .scheme_dark .trx_addons_hover_icon:hover,
 .scheme_dark .trx_addons_hover_links a:hover {
-    color: #64c9ab!important;
+    color: #80ffd7!important;
     background-color: #343434
 }
 .scheme_dark .sc_team_item .trx_addons_hover_icon,
@@ -3751,14 +3752,14 @@ blockquote p,
 }
 .scheme_dark .sc_team_item .trx_addons_hover_icon:hover,
 .scheme_dark .sc_team_item .trx_addons_hover_links a:hover {
-    color: #64c9ab!important;
+    color: #80ffd7!important;
     background-color: transparent
 }
 .scheme_dark .slider_swiper .slide_info.slide_info_large {
     background-color: rgba(4, 129, 172, 0.85)
 }
 .scheme_dark .slider_swiper .slide_info.slide_info_large:hover {
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_dark .slider_swiper .slide_info.slide_info_large .slide_cats a {
     color: #ffffff
@@ -3774,12 +3775,12 @@ blockquote p,
 }
 .scheme_dark .slider_swiper .slide_info.slide_info_large .slide_cats a:hover,
 .scheme_dark .slider_swiper .slide_info.slide_info_large .slide_title a:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark .slider_swiper.slider_multi .slide_cats a:hover,
 .scheme_dark .slider_swiper.slider_multi .slide_title a:hover,
 .scheme_dark .slider_swiper.slider_multi a:hover .slide_title {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark .slider_swiper.slider_pagination .swiper-pagination-bullet-active {
     background-color: #ffffff
@@ -3791,11 +3792,11 @@ blockquote p,
 }
 .scheme_dark .slider_swiper.slider_controls_bottom .slider_prev:hover,
 .scheme_dark .slider_swiper.slider_controls_bottom .slider_next:hover {
-    color: #0481ac;
+    color: #cb4154;
     background-color: #ffffff
 }
 .scheme_dark .slider_swiper .swiper-pagination-bullet {
-    border-color: #0481ac
+    border-color: #cb4154
 }
 .scheme_dark .slider_swiper .swiper-pagination-bullet.swiper-pagination-bullet-active,
 .scheme_dark .slider_swiper .swiper-pagination-bullet:hover {
@@ -3812,14 +3813,14 @@ blockquote p,
 }
 .scheme_dark .trx_addons_audio_player.without_cover {
     border-color: #000000;
-    background: #035a95;
-    background: -moz-linear-gradient(left, #035a95 0%, #0498bd 100%);
-    background: -webkit-linear-gradient(left, #035a95 0%, #0498bd 100%);
-    background: linear-gradient(to right, #035a95 0%, #0498bd 100%);
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#035a95', endColorstr='#0498bd', GradientType=1);
+    background: #cb4154;
+    background: -moz-linear-gradient(left, #cb4154 0%, #cb4154 100%);
+    background: -webkit-linear-gradient(left, #cb4154 0%, #cb4154 100%);
+    background: linear-gradient(to right, #cb4154 0%, #cb4154 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#cb4154', endColorstr='#cb4154', GradientType=1);
 }
 .scheme_dark .trx_addons_audio_player .audio_author {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark .widget_categories_list .categories_list_style_2 .categories_list_title a:hover {
     color: #ffffff
@@ -3831,10 +3832,10 @@ blockquote p,
     color: #ffffff
 }
 .scheme_dark .widget_contacts .contacts_socials a:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark .widget_socials .social_item span {
-    background-color: #64c9ab;
+    background-color: #80ffd7;
     color: #ffffff
 }
 .scheme_dark .widget_socials .social_item a:hover span {
@@ -3862,11 +3863,11 @@ blockquote p,
     color: #ffffff
 }
 .scheme_dark .sc_recent_news_header_more_categories {
-    border-color: #035a95;
+    border-color: #cb4154;
     background-color: #343434
 }
 .scheme_dark .sc_recent_news_header_more_categories>a {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark .sc_recent_news_header_more_categories>a:hover {
     color: #ffffff;
@@ -3911,22 +3912,22 @@ blockquote p,
 .scheme_dark .slider_swiper.slider_controls_side .slider_prev.sc_button_hover_slide_left,
 .scheme_dark .slider_swiper.slider_controls_side .slider_next.sc_button_hover_slide_left,
 .scheme_dark .trx_addons_video_player.with_cover .video_hover.sc_button_hover_slide_left {
-    background: linear-gradient(to right, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to right, #ca4053 0%, #aa3646 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_dark .slider_swiper.slider_controls_side .slider_prev.sc_button_hover_slide_right,
 .scheme_dark .slider_swiper.slider_controls_side .slider_next.sc_button_hover_slide_right,
 .scheme_dark .trx_addons_video_player.with_cover .video_hover.sc_button_hover_slide_right {
-    background: linear-gradient(to left, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to left, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_dark .slider_swiper.slider_controls_side .slider_prev.sc_button_hover_slide_top,
 .scheme_dark .slider_swiper.slider_controls_side .slider_next.sc_button_hover_slide_top,
 .scheme_dark .trx_addons_video_player.with_cover .video_hover.sc_button_hover_slide_top {
-    background: linear-gradient(to bottom, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to bottom, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_dark .slider_swiper.slider_controls_side .slider_prev.sc_button_hover_slide_bottom,
 .scheme_dark .slider_swiper.slider_controls_side .slider_next.sc_button_hover_slide_bottom,
 .scheme_dark .trx_addons_video_player.with_cover .video_hover.sc_button_hover_slide_bottom {
-    background: linear-gradient(to top, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to top, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_dark .slider_swiper.slider_controls_side .slider_prev:hover,
 .scheme_dark .slider_swiper.slider_controls_side .slider_next:hover,
@@ -3938,7 +3939,7 @@ blockquote p,
 .scheme_dark .slider_swiper.slider_controls_side .slider_prev:not([class*="sc_button_hover_"]):hover,
 .scheme_dark .slider_swiper.slider_controls_side .slider_next:not([class*="sc_button_hover_"]):hover {
     color: #ffffff;
-    background-color: #64c9ab
+    background-color: #80ffd7
 }
 .scheme_dark .sc_item_subtitle {
     color: #ffffff
@@ -3949,16 +3950,16 @@ blockquote p,
 }
 .scheme_dark .trx_addons_hover_content .trx_addons_hover_links a:not([class*="sc_button_hover_"]),
 .scheme_dark .trx_addons_hover_content .trx_addons_hover_links a.sc_button_hover_slide_left {
-    background: linear-gradient(to right, #ffffff 50%, #64c9ab 50%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to right, #ffffff 50%, #80ffd7 50%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_dark .trx_addons_hover_content .trx_addons_hover_links a.sc_button_hover_slide_right {
-    background: linear-gradient(to left, #ffffff 50%, #64c9ab 50%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to left, #ffffff 50%, #80ffd7 50%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_dark .trx_addons_hover_content .trx_addons_hover_links a.sc_button_hover_slide_top {
-    background: linear-gradient(to bottom, #ffffff 50%, #64c9ab 50%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to bottom, #ffffff 50%, #80ffd7 50%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_dark .trx_addons_hover_content .trx_addons_hover_links a.sc_button_hover_slide_bottom {
-    background: linear-gradient(to top, #ffffff 50%, #64c9ab 50%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to top, #ffffff 50%, #80ffd7 50%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_dark .trx_addons_hover_content .trx_addons_hover_links a:hover {
     color: #ffffff!important;
@@ -3990,29 +3991,29 @@ blockquote p,
 }
 .scheme_dark .sc_action_item .sc_action_item_link:not([class*="sc_button_hover_"]),
 .scheme_dark .sc_action_item .sc_action_item_link.sc_button_hover_slide_left {
-    background: linear-gradient(to right, #0498bd 0%, #035a95 50%, #ffffff 0%, #ffffff 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to right, #cb4154 0%, #cb4154 50%, #ffffff 0%, #ffffff 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_dark .sc_action_item .sc_action_item_link.sc_button_hover_slide_right {
-    background: linear-gradient(to left, #0498bd 0%, #035a95 50%, #ffffff 0%, #ffffff 100%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to left, #cb4154 0%, #cb4154 50%, #ffffff 0%, #ffffff 100%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_dark .sc_action_item .sc_action_item_link.sc_button_hover_slide_top {
-    background: linear-gradient(to bottom, #0498bd 0%, #035a95 50%, #ffffff 0%, #ffffff 100%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to bottom, #cb4154 0%, #cb4154 50%, #ffffff 0%, #ffffff 100%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_dark .sc_action_item .sc_action_item_link.sc_button_hover_slide_bottom {
-    background: linear-gradient(to top, #0498bd 0%, #035a95 50%, #ffffff 0%, #ffffff 100%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to top, #cb4154 0%, #cb4154 50%, #ffffff 0%, #ffffff 100%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_dark .sc_action_item .sc_action_item_link:hover {
     color: #ffffff;
-    border-color: #64c9ab;
+    border-color: #80ffd7;
     background-position: left bottom
 }
 .scheme_dark .sc_action_item .sc_action_item_link:not([class*="sc_button_hover_"]):hover {
     color: #ffffff;
-    border-color: #64c9ab;
-    background-color: #64c9ab
+    border-color: #80ffd7;
+    background-color: #80ffd7
 }
 .scheme_dark #toc_menu .toc_menu_icon {
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_dark #toc_menu .toc_menu_icon:before {
     color: #ffffff
@@ -4046,7 +4047,7 @@ blockquote p,
 }
 .scheme_dark .sc_blogger_default .sc_blogger_item_title a:hover,
 .scheme_dark .sc_blogger_classic .sc_blogger_item_title a:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark .sc_blogger_default .sc_blogger_post_meta,
 .scheme_dark .sc_blogger_classic .sc_blogger_post_meta {
@@ -4057,19 +4058,19 @@ blockquote p,
     color: #909090
 }
 .scheme_dark .sc_blogger_classic .sc_blogger_item .more-link {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark .sc_blogger_classic .sc_blogger_item .more-link:hover {
     color: #eeeeee
 }
 .scheme_dark .sc_blogger_classic .sc_item_button .sc_button {
-    background: linear-gradient(to right, #0498bd 0%, #035a95 50%, #64c9ab 0%, #64c9ab 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to right, #cb4154 0%, #cb4154 50%, #80ffd7 0%, #80ffd7 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_dark .sc_courses_default .sc_courses_item {
     background-color: #343434
 }
 .scheme_dark .sc_courses_default .sc_courses_item_categories {
-    background-color: #64c9ab
+    background-color: #80ffd7
 }
 .scheme_dark .sc_courses_default .sc_courses_item_categories a {
     color: #ffffff
@@ -4087,7 +4088,7 @@ blockquote p,
     background-color: #343434
 }
 .scheme_dark .sc_events_item_date {
-    background-color: #64c9ab;
+    background-color: #80ffd7;
     color: #ffffff
 }
 .scheme_dark .sc_events_item:hover .sc_events_item_date {
@@ -4097,16 +4098,16 @@ blockquote p,
     color: #eeeeee
 }
 .scheme_dark .sc_events_item:hover .sc_events_item_title {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark .sc_events_item_button {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark .sc_events_item:hover .sc_events_item_button {
     color: #eeeeee
 }
 .scheme_dark.sc_form {
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_dark .sc_form_field_title {
     color: #ffffff
@@ -4140,19 +4141,19 @@ blockquote p,
 }
 .scheme_dark .sc_form_field button:not([class*="sc_button_hover_"]),
 .scheme_dark .sc_form_field button.sc_button_hover_slide_left {
-    background: linear-gradient(to right, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to right, #ca4053 0%, #aa3646 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_dark .sc_form_field button.sc_button_hover_slide_right {
-    background: linear-gradient(to left, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to left, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_dark .sc_form_field button.sc_button_hover_slide_top {
-    background: linear-gradient(to bottom, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to bottom, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_dark .sc_form_field button.sc_button_hover_slide_bottom {
-    background: linear-gradient(to top, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to top, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_dark .sc_form_field button:hover {
-    color: #0481ac!important;
+    color: #cb4154!important;
     border-color: #ffffff;
     background-position: left bottom
 }
@@ -4160,7 +4161,7 @@ blockquote p,
     background-color: #ffffff!important
 }
 .scheme_dark .sc_form .sc_form_info_icon {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark .sc_form .sc_form_info_data>a,
 .scheme_dark .sc_form .sc_form_info_data>span {
@@ -4243,7 +4244,7 @@ blockquote p,
 .scheme_dark .sc_googlemap_content,
 .scheme_dark.sc_googlemap_content {
     color: #ffffff;
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_dark .sc_googlemap_content b,
 .scheme_dark .sc_googlemap_content strong,
@@ -4276,7 +4277,7 @@ blockquote p,
     color: #ffffff
 }
 .scheme_dark .sc_price .sc_price_icon:hover {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark .sc_price_period {
     color: #ffffff
@@ -4293,16 +4294,16 @@ blockquote p,
 }
 .scheme_dark .sc_price_link:not([class*="sc_button_hover_"]),
 .scheme_dark .sc_price_link.sc_button_hover_slide_left {
-    background: linear-gradient(to right, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to right, #ca4053 0%, #aa3646 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_dark .sc_price_link.sc_button_hover_slide_right {
-    background: linear-gradient(to left, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to left, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll left bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_dark .sc_price_link.sc_button_hover_slide_top {
-    background: linear-gradient(to bottom, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to bottom, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right bottom/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_dark .sc_price_link.sc_button_hover_slide_bottom {
-    background: linear-gradient(to top, #64c9ab 0%, #64c9ab 50%, #0498bd 0%, #035a95 100%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
+    background: linear-gradient(to top, #80ffd7 0%, #80ffd7 50%, #cb4154 0%, #cb4154 100%) no-repeat scroll right top/ 100% 210% rgba(0, 0, 0, 0)
 }
 .scheme_dark .sc_price_link:hover {
     color: #ffffff;
@@ -4310,10 +4311,10 @@ blockquote p,
 }
 .scheme_dark .sc_price_link:not([class*="sc_button_hover_"]):hover {
     color: #ffffff;
-    background-color: #64c9ab
+    background-color: #80ffd7
 }
 .scheme_dark.sc_promo {
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_dark .sc_promo.sc_promo_size_normal .sc_promo_descr,
 .scheme_dark.sc_promo.sc_promo_size_normal .sc_promo_descr {
@@ -4325,10 +4326,10 @@ blockquote p,
 }
 .scheme_dark .sc_promo .sc_promo_button a:hover,
 .scheme_dark.sc_promo .sc_promo_button a:hover {
-    color: #64c9ab!important
+    color: #80ffd7!important
 }
 .scheme_dark .sc_skills_counter .sc_skills_icon {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark .sc_skills .sc_skills_total,
 .scheme_dark .sc_skills .sc_skills_legend_title,
@@ -4380,7 +4381,7 @@ blockquote p,
     color: #aaaaaa
 }
 .scheme_dark .sc_services_default .sc_services_item {
-    background: linear-gradient(to right, #035a95 0%, #0498bd 50%, #4c4c4c 0%, #343434 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
+    background: linear-gradient(to right, #cb4154 0%, #cb4154 50%, #4c4c4c 0%, #343434 100%) no-repeat scroll right bottom/ 210% 100% rgba(0, 0, 0, 0)
 }
 .scheme_dark .sc_services_default .sc_services_item:hover {
     background-position: left bottom
@@ -4409,14 +4410,14 @@ blockquote p,
 }
 .scheme_dark .trx_addons_profiler {
     background-color: #343434;
-    border-color: #0498bd
+    border-color: #cb4154
 }
 .scheme_dark .trx_addons_profiler_title {
     color: #eeeeee
 }
 .scheme_dark .trx_addons_profiler table td,
 .scheme_dark .trx_addons_profiler table th {
-    border-color: #035a95
+    border-color: #cb4154
 }
 .scheme_dark .trx_addons_profiler table td {
     color: #909090
@@ -4431,13 +4432,13 @@ blockquote p,
     background-color: #343434
 }
 .scheme_dark .trx_addons_cv a {
-    color: #64c9ab
+    color: #80ffd7
 }
 .scheme_dark .trx_addons_cv a:hover {
     color: #ffffff
 }
 .scheme_dark .trx_addons_cv_header {
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_dark .trx_addons_cv_header_image img {
     border-color: #ffffff
@@ -4455,7 +4456,7 @@ blockquote p,
 .scheme_dark .trx_addons_cv_navi_buttons .trx_addons_cv_navi_buttons_area .trx_addons_cv_navi_buttons_item {
     color: #aaaaaa;
     background-color: #343434;
-    border-color: #0481ac
+    border-color: #cb4154
 }
 .scheme_dark .trx_addons_cv_navi_buttons .trx_addons_cv_navi_buttons_area .trx_addons_cv_navi_buttons_item_active,
 .scheme_dark .trx_addons_cv_navi_buttons .trx_addons_cv_navi_buttons_area .trx_addons_cv_navi_buttons_item:hover {
@@ -4514,7 +4515,7 @@ blockquote p,
 .scheme_dark .trx_addons_tabs_content_delimiter .trx_addons_cv_resume_columns_4 .trx_addons_cv_resume_column:nth-child(4n+6) .trx_addons_cv_resume_item,
 .scheme_dark .trx_addons_tabs_content_delimiter .trx_addons_cv_resume_columns_4 .trx_addons_cv_resume_column:nth-child(4n+7) .trx_addons_cv_resume_item,
 .scheme_dark .trx_addons_tabs_content_delimiter .trx_addons_cv_resume_columns_4 .trx_addons_cv_resume_column:nth-child(4n+8) .trx_addons_cv_resume_item {
-    border-color: #035a95
+    border-color: #cb4154
 }
 .scheme_dark .trx_addons_cv_resume_item_meta {
     color: #eeeeee
@@ -4564,7 +4565,7 @@ blockquote p,
 }
 .scheme_dark .trx_addons_contact_form .trx_addons_contact_form_field input[type="text"],
 .scheme_dark .trx_addons_contact_form .trx_addons_contact_form_field textarea {
-    border-color: #035a95;
+    border-color: #cb4154;
     color: #909090
 }
 .scheme_dark .trx_addons_contact_form .trx_addons_contact_form_field input[type="text"]:focus,
@@ -4575,7 +4576,7 @@ blockquote p,
 .scheme_dark .trx_addons_contact_form_field button {
     background-color: #eeeeee;
     border-color: #eeeeee;
-    color: #0481ac
+    color: #cb4154
 }
 .scheme_dark .trx_addons_contact_form_field button:hover {
     color: #eeeeee
@@ -4596,7 +4597,7 @@ blockquote p,
 .scheme_dark.wpb_column,
 .scheme_dark.wpb_text_column {
     color: #ffffff;
-    background-color: #0481ac
+    background-color: #cb4154
 }
 .scheme_dark.vc_row.vc_parallax[class*="scheme_"] .vc_parallax-inner:before {
     background-color: rgba(4, 129, 172, 0.85)
@@ -4695,11 +4696,11 @@ blockquote p,
     background-color: #000000
 }
 .scheme_dark .vc_progress_bar.vc_progress_bar_narrow.vc_progress-bar-color-bar_red .vc_single_bar .vc_bar {
-    background: #035a95;
-    background: -moz-linear-gradient(left, #035a95 0%, #0498bd 100%);
-    background: -webkit-linear-gradient(left, #035a95 0%, #0498bd 100%);
-    background: linear-gradient(to right, #035a95 0%, #0498bd 100%);
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#035a95', endColorstr='#0498bd', GradientType=1);
+    background: #cb4154;
+    background: -moz-linear-gradient(left, #cb4154 0%, #cb4154 100%);
+    background: -webkit-linear-gradient(left, #cb4154 0%, #cb4154 100%);
+    background: linear-gradient(to right, #cb4154 0%, #cb4154 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#cb4154', endColorstr='#cb4154', GradientType=1);
 }
 .scheme_dark .vc_progress_bar.vc_progress_bar_narrow .vc_single_bar .vc_label {
     color: #ffffff
