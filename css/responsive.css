@@ -2852,6 +2852,13 @@
 	.gallery.gallery-columns-4 .gallery-item {	width: 50% !important; }
 	.gallery.gallery-columns-3 .gallery-item {	width: 50% !important; }
 	
+	.footer_wrap, 
+	.footer_wrap .widget_title {
+		text-align: center;
+	}
+	.footer_wrap aside {
+		margin-bottom: 30px;
+	}
 	/* Mobile menu */ 
 	.mobile_layout.menu_style_side .menu_side_wrap .menu_mobile_button {
 		left: -50px;
