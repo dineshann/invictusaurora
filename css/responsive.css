@@ -1823,6 +1823,10 @@
 	.sc_services_default .sc_services_item_info {
 		padding: 4em 3.5em 3em;
 	}
+	.footer_wrap, 
+	.footer_wrap .widget_title {
+		text-align: center;
+	}
 	.footer_wrap aside {
 		margin-bottom: 30px;
 	}
